@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "If the frequency increases in the given circuit, how would the total current change?<br><p style=\"text-align:center\"><img src=\"image/quiz1.png \" style=\"width:350px;height:200px\"></p>",
+      "question": "If the frequency increases in the given circuit, how would the total current change?<br><p style=\"text-align:center\"><img src=\"images/quiz1.png \" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "The total current would increase",
         "b": "The total current would decrease",
