@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 7.0" version="1.0">
+	<objective id="Quiz10010" max-score="40" passing-score="32" min-score="0">
+		<name>RC Filters</name>
+		<interactions>
+			<interaction id="Interaction10015" type="choice" score="10" correct-response="B">
+				<name>Question 1</name>
+				<title>Which statement about a series RC circuit is true?</title>
+				<responses>
+					<response id="A">The capacitor's voltage drop is in phase with the resistor's voltage drop. </response>
+					<response id="B">The current leads the source voltage. </response>
+					<response id="C">The current lags the source voltage. </response>
+					<response id="D">The resistor voltage lags the current. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10027" type="choice" score="10" correct-response="A">
+				<name>Question 2</name>
+				<title>If the frequency increases in the given circuit, how would the total current change?</title>
+				<responses>
+					<response id="A">The total current would increase. </response>
+					<response id="B">The total current would decrease. </response>
+					<response id="C">The total current would remain the same. </response>
+					<response id="D">More information is needed in order to predict how the total current would change. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10039" type="choice" score="10" correct-response="D">
+				<name>Question 3</name>
+				<title>What is the effect of increasing the resistance in a series RC circuit?</title>
+				<responses>
+					<response id="A">There will be no effect at all. </response>
+					<response id="B">The current will increase. </response>
+					<response id="C">The input voltage will increase. </response>
+					<response id="D">The phase shift will decrease. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10165" type="choice" score="10" correct-response="A">
+				<name>Question 13</name>
+				<title>If the frequency increases in the figure shown, how would the total current change ?</title>
+				<responses>
+					<response id="A">Total current would increase </response>
+					<response id="B">Total current would decrease </response>
+					<response id="C">Total current would remain the same </response>
+					<response id="D">More information is needed to predict how total current would change </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

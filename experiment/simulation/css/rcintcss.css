@@ -1,0 +1,106 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 Feb, 2017, 5:56:18 PM
+    Author     : sukriti
+*/
+
+  .canvasjs-chart-credit{
+                display:none;
+            }
+            //.dropdown {
+            //  position: relative;
+            //  display: inline-block;
+            //  height:20px;
+            //  font-size: 16px;
+            // font-weight: bold;
+
+            // }
+            .dropdown-content {
+                display: none;
+                position: absolute;
+                background-color: #f9f9f9;
+                border:2px solid #3385ff;;
+                min-width: 490px;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                padding: 12px 16px;
+                z-index: 1;
+            }
+
+            .dropdown:hover .dropdown-content {
+                display: block;
+
+            }
+
+            /* .tooltip {
+                position: relative;
+               display: inline-block;
+             
+            }*/
+
+            /* Tooltip text */
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                width: 80px;
+                background-color: #f9f9f9;/*#ffff80;#555;*/
+                border:2px solid #3385ff;  
+
+                color: #555; /*#fff;*/
+                text-align: center;
+                // padding: 5px 0;
+                // border-radius: 6px;
+
+                /* Position the tooltip text */
+                position: absolute;
+                z-index: 1;
+                top: 60%;
+                left: 80%;
+                margin-left: 20px;
+
+                /* Fade in tooltip */
+                opacity: 0;
+                transition: opacity 1s;
+            }
+
+            /* Tooltip arrow 
+            .tooltip .tooltiptext::after {
+                content: "";
+                position: absolute;
+                top: 300px;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px;
+                border-style: solid;
+                border-color: #555 transparent transparent transparent;
+            }*/
+
+            /* Show the tooltip text when you mouse over the tooltip container */
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+                opacity: 3;
+            }
+
+            .box
+            {
+                background-color:#f2f2f2;
+                border-radius:20px;
+                position:relative;
+                border:1px solid black;
+                display: none;
+height:200px;
+                // background-color: #f9f9f9;
+                //border:2px solid #3385ff;;
+            // min-width: 450px;
+                //box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                //padding: 12px 16px;
+                z-index: 1;
+            } 
+            #close{
+                top:10px;
+                left:85%;
+                position:relative;
+                display: none;
+            }

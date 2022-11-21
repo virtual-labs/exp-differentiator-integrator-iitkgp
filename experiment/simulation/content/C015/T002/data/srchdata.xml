@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/">
+	<document-info>
+		<title>Time Domain</title>
+		<summary></summary>
+		<author/>
+		<keywords/>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/>
+		<view-link href="/Viewer.swf?slide={position}"/>
+	</document-info>
+	<section type="slide" position="1" xmlns="">
+		<title>RC CIRCUITS</title>
+		<content>RC CIRCUITS Time Domain Response  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/>
+	</section>
+	<section type="slide" position="2" xmlns="">
+		<title>Charging with DC Source </title>
+		<content>Charging with DC Source  Consider the circuit shown above where a DC source of 10V is applied to a Resistor of 1KOhms and a capacitor of 1 uF.  Assume Vcap is the voltage across the capacitor.   Vcap  </content>
+		<related-content>Ask some questions like how changing values of R &amp; C can affect the charging time.&lt;br&gt;&lt;br&gt;The charge is flowing from the battery to the plates of the capcitor which means current is flowing&lt;br&gt;The voltage across the capacitor increases as the charge accumulates.&lt;br&gt;The voltage difference decreases.&lt;br&gt;The current now decreases because of the decreasing voltage difference.&lt;br&gt;Since the current increases the voltage across the capacitor which eventually decreases the current we can say the current leads voltage in a capacitor&lt;br&gt;&lt;br&gt;Show the analogy in an animation. Capacitor is a water tank, voltage is the pressure, water is the current, pipe is the resistor. Size of the tank = value of the capacitor&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000002.jpg"/>
+	</section>
+	<section type="slide" position="3" xmlns="">
+		<title>Charging with DC Source </title>
+		<content>Charging with DC Source  The Voltage across the capacitor approaches the applied voltage  - but at a rate that diminishes towards zero as Vcap approaches the applied voltage. It starts out strongly charging at 10mA but as it is 1V away it has slowed to 1/10 its rate.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000003.jpg"/>
+	</section>
+	<section type="slide" position="4" xmlns="">
+		<title>Question ?</title>
+		<content>Does Vcap ever reach the applied Voltage of 10 V ?  Question ?  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000004.jpg"/>
+	</section>
+	<section type="slide" position="5" xmlns="">
+		<title>Square Wave Response – slow change</title>
+		<content>Square Wave Response – slow change Since we have seen that a time of 5T where T = R*C is needed for the capacitor to charge fully, let us first take a time period of the square wave large enough to charge the capacitor. So we take Time period of Square wave  &gt; &gt; RC. So in effect, this square wave is changing slowly.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000005.jpg"/>
+	</section>
+	<section type="slide" position="6" xmlns="">
+		<title>Square Wave Response – slow change</title>
+		<content>Square Wave Response – slow change Construct the circuit as below with R = 1 Kohm and C= 0.1 uF. Time Constant ,RC = 100 µS. For the function generator select square wave, let us take Freq = 250 Hz (time period = 4 ms), Amplitude = 2 V. Hook up the Oscilloscope as indicated, run simulation and see the results as shown below.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000006.jpg"/>
+	</section>
+	<section type="slide" position="7" xmlns="">
+		<title>Square Wave Response – slow change</title>
+		<content>Square Wave Response – slow change View the results in the Oscilloscope. Notice that the output across the capacitor is nearly same as the input as we allow the capacitor enough time to charge or discharge fully.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000007.jpg"/>
+	</section>
+	<section type="slide" position="8" xmlns="">
+		<title>Square Wave Response – fast change</title>
+		<content>Square Wave Response – fast change Since we have taken a source which changes slowly and allows the capacitor to charge/discharge fully, let us first take a time period of the square wave the changes fast now. So we take Time period of Square wave  &lt;&lt;  RC. Let us construct the circuit and observe its changes to this fast changing signal.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000008.jpg"/>
+	</section>
+	<section type="slide" position="9" xmlns="">
+		<title>Square Wave Response – fast change</title>
+		<content>Square Wave Response – fast change Construct the circuit as below take R = 5.1  Kohm and C= 0.9 uF. Time Constant , RC = 4.5 mS . For the function generator select square wave, let us take Freq = 250 Hz (time period = 4 ms), Amplitude = 2 V. Hook up the Oscilloscope as indicated, run simulation and see the results as shown below.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000009.jpg"/>
+	</section>
+	<section type="slide" position="10" xmlns="">
+		<title>Square Wave Response – fast change</title>
+		<content>Square Wave Response – fast change View the results in the oscilloscope. Notice the we don’t allow the capacitor enough time to charge or discharge fully in this case thus we have the resultant waveform.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000010.jpg"/>
+	</section>
+	<section type="slide" position="11" xmlns="">
+		<title>Square Wave Response – Medium change</title>
+		<content>Square Wave Response – Medium change Since we have seen both cases where we apply a fast changing signal and a slow changing signal, we now apply a signal which is neither changing fast nor changing slowly. So we take Time period of Square wave  &gt;  RC. Let us construct the circuit and observe the behavior.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000011.jpg"/>
+	</section>
+	<section type="slide" position="12" xmlns="">
+		<title>Square Wave Response – Medium change</title>
+		<content>Square Wave Response – Medium change Construct the circuit as below with Take R = 910 Ohms and C= 0.9 uF. Time Constant, RC = 900 µS. For the function generator select square wave, let us take Freq = 250 Hz (time period = 4 ms), Amplitude = 2 V . Hook up the Oscilloscope as indicated, run simulation and see the results as shown below.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000012.jpg"/>
+	</section>
+	<section type="slide" position="13" xmlns="">
+		<title>Square Wave Response – medium change</title>
+		<content>Square Wave Response – medium change View the results in the oscilloscope. Notice the we just allowed the capacitor to have enough time to charge or discharge fully in this case thus we have the resultant waveform.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000013.jpg"/>
+	</section>
+	<section type="slide" position="14" xmlns="">
+		<title>Integrators and Differentiators</title>
+		<content>Integrators and Differentiators  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000014.jpg"/>
+	</section>
+	<section type="slide" position="15" xmlns="">
+		<title>RC Circuit as Differentiator</title>
+		<content>RC Circuit as Differentiator  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000015.jpg"/>
+	</section>
+	<section type="slide" position="16" xmlns="">
+		<title>RC as differentiator – Circuit construction</title>
+		<content>RC as differentiator – Circuit construction Construct the circuit as below. Take R0= 0.1 Kohm and C0= 1 uF. RC = 100 µS. For the function generator select square wave, of 500Hz and 1V. Hook up the Oscilloscope as indicated, run simulation and see the results as shown below.    </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000016.jpg"/>
+	</section>
+	<section type="slide" position="17" xmlns="">
+		<title>RC Circuit as Integrator</title>
+		<content>RC Circuit as Integrator  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000017.jpg"/>
+	</section>
+	<section type="slide" position="18" xmlns="">
+		<title>RC as Integrator</title>
+		<content>RC as Integrator Construct the circuit as below take R = 5.1  Kohm and C= 0.9 uF. Time Constant , RC = 4.5 mS . For the function generator select square wave, let us take Freq = 250 Hz (time period = 4 ms), Amplitude = 2 V. Hook up the Oscilloscope as indicated, run simulation and see the results as shown below.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000018.jpg"/>
+	</section>
+	<section type="slide" position="19" xmlns="">
+		<title>RC as integrator</title>
+		<content>RC as integrator View the results in the oscilloscope. Notice the we don’t allow the capacitor enough time to charge or discharge fully in this case thus we have the resultant waveform.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000019.jpg"/>
+	</section>
+</document-metadata>
