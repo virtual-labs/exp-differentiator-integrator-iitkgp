@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/">
+	<document-info>
+		<title>Time Domain</title>
+		<summary></summary>
+		<author/>
+		<keywords/>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/>
+		<view-link href="/Viewer.swf?slide={position}"/>
+	</document-info>
+	<section type="slide" position="1" xmlns="">
+		<title>ADVANCED PULSE and switching lab</title>
+		<content>ADVANCED PULSE and switching lab RC Square wave response, Integrator and Differentiator  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/>
+	</section>
+	<section type="slide" position="2" xmlns="">
+		<title>RC Square wave response, Integrator and Differentiator</title>
+		<content>Post Test RC Square wave response, Integrator and Differentiator  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000002.jpg"/>
+	</section>
+	<section type="slide" position="3" xmlns="">
+		<title>Which statement about a series RC circuit is true?</title>
+		<content>Which statement about a series RC circuit is true? Correct - Click anywhere to continue Incorrect - Click anywhere to continue You answered this correctly! Your answer: The correct answer is: You did not answer this question completely You must answer the question before continuing SubmitSubmit ClearClear A) The capacitor's voltage drop is in phase with the resistor's voltage drop. B) The current leads the source voltage. C) The current lags the source voltage. D) The resistor voltage lags the current.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000003.jpg"/>
+	</section>
+	<section type="slide" position="4" xmlns="">
+		<title>If the frequency increases in the given circuit, how would the total current change?</title>
+		<content>If the frequency increases in the given circuit, how would the total current change? Correct - Click anywhere to continue Incorrect - Click anywhere to continue You answered this correctly! Your answer: The correct answer is: You did not answer this question completely You must answer the question before continuing SubmitSubmit ClearClear A) The total current would increase. B) The total current would decrease. C) The total current would remain the same. D) More information is needed in order to predict how the total current would change.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000004.jpg"/>
+	</section>
+	<section type="slide" position="5" xmlns="">
+		<title>What is the effect of increasing the resistance in a series RC circuit?</title>
+		<content>What is the effect of increasing the resistance in a series RC circuit? Correct - Click anywhere to continue Incorrect - Click anywhere to continue You answered this correctly! Your answer: The correct answer is: You did not answer this question completely You must answer the question before continuing SubmitSubmit ClearClear A) There will be no effect at all. B) The current will increase. C) The input voltage will increase. D) The phase shift will decrease.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000005.jpg"/>
+	</section>
+	<section type="slide" position="6" xmlns="">
+		<title>If the frequency increases in the figure shown, how would the total current change ?</title>
+		<content>If the frequency increases in the figure shown, how would the total current change ? Correct - Click anywhere to continue Incorrect - Click anywhere to continue You answered this correctly! Your answer: The correct answer is: You did not answer this question completely You must answer the question before continuing SubmitSubmit ClearClear  A) Total current would increase B) Total current would decrease C) Total current would remain the same D) More information is needed to predict how total current would change  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000006.jpg"/>
+	</section>
+	<section type="slide" position="7" xmlns="">
+		<title>RC Square wave response, Differentiator, Integrator</title>
+		<content>RC Square wave response, Differentiator, Integrator Your ScoreMax ScoreNumber of Quiz Attempts Question Feedback/Review Information Will Appear Here Review Quiz Continue  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000007.jpg"/>
+	</section>
+</document-metadata>
