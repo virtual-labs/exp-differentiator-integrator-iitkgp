@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" defaultSlideDuration="5" start="play" buildNum="7.0.0.7328">
+	<presentationTitle>Time Domain Response</presentationTitle>
+	<speakers></speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop frameNum="1" displayBgSp="false"/></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop frameNum="2" displayBgSp="false"/></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/></layout></layouts>
+	<slides>
+		<slide id="256" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide0.swf" id="256"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="1"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>RC CIRCUITS</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+		</slide>
+		<slide id="257" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf" id="257"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="2"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Objectives</slideTitle>
+			<notes isHTML="true">Sir will get back with the objectives.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+		</slide>
+		<slide id="259" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="3"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>From our Earlier Lessons</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+		</slide>
+		<slide id="307" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide3.swf" id="307"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="2"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Mathematical Notion</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+		</slide>
+		<slide id="308" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide4.swf" id="308"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="4"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Analogy</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+		</slide>
+		<slide id="310" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide5.swf" id="310"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Charging with DC Source</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+		</slide>
+		<slide id="311" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide6.swf" id="311"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="3"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Question ?</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+		</slide>
+		<slide id="312" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide7.swf" id="312"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="4"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Charging with DC Source</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+		</slide>
+		<slide id="313" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide8.swf" id="313"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="4"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Discharging with DC Source</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+		</slide>
+		<slide id="268" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide9.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Exploratory – Charging with DC Source</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+		</slide>
+		<slide id="315" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide10.swf" id="315"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Exploratory – Charging with DC Source</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+		</slide>
+		<slide id="316" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide11.swf" id="316"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Exploratory – Charging with DC Source</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+		</slide>
+		<slide id="282" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide12.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="3"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Square Wave Response of RC Circuit</slideTitle>
+			<notes isHTML="true">Square Wave Response&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+		</slide>
+		<slide id="283" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide13.swf" id="283"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Square Wave Response of an RC Circuit</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+		</slide>
+		<slide id="284" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide14.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Characteristics of a Square Wave</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+		</slide>
+		<slide id="285" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide15.swf" id="285"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Square Wave Response – slow change</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+		</slide>
+		<slide id="293" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide16.swf" id="293"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Important Observations</slideTitle>
+			<notes isHTML="true">Square wave is actually a combination of sine waves of fundamental frequency and the subsequent harmonics. Simulation to show this.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+		</slide>
+		<slide id="294" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide17.swf" id="294"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="3"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Integrators and Differentiators</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+		</slide>
+		<slide id="295" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide18.swf" id="295"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>What is an integrator ?</slideTitle>
+			<notes isHTML="true">Physical significance of Integrator – Accumulation of charge.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+		</slide>
+		<slide id="320" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide19.swf" id="320"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>What is an differentiator ?</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+		</slide>
+		<slide id="296" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide20.swf" id="296"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>RC as Integrators and Differentiators ?</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+		</slide>
+		<slide id="299" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide21.swf" id="299"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="3"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>RC Circuit as Differentiator</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+		</slide>
+		<slide id="300" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide22.swf" id="300"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Basic differentiation</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+		</slide>
+		<slide id="321" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide23.swf" id="321"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Basic differentiation</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+		</slide>
+		<slide id="301" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide24.swf" id="301"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>RC as Differentiator</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+		</slide>
+		<slide id="322" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide25.swf" id="322"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="3"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>RC Circuit as Integrator</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+		</slide>
+		<slide id="323" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide26.swf" id="323"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>We understand – Integrator</slideTitle>
+			<notes isHTML="true">Physical significance of Integrator – Accumulation of charge.&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+		</slide>
+		<slide id="324" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide27.swf" id="324"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Simple Integrator</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+		</slide>
+		<slide id="325" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide28.swf" id="325"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>Simple Integrator</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+		</slide>
+		<slide id="326" showInTOC="" inSequence="" frameRate="30" totalFrames="1" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide29.swf" id="326"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1"/>
+			<layout id="5"/>
+			<clickAnimations></clickAnimations>
+			<flvContents/>
+			<slideTitle>RC as Integrator</slideTitle>
+			<notes isHTML="true">&lt;br&gt;&lt;br&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>
