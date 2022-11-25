@@ -1,3 +1,5 @@
+EMPTY
+
 ##  Procedure
 ### RC Integrator
 - Set the resistance(R) and the capacitance (C) (Intially set R=10 kΩ and C=0.1 µF).

@@ -3,6 +3,10 @@
 ***Video Lecture:***
 - [NPTEL Note for RC circuits](http://nptel.ac.in/courses/122104013/7)
 
+
+
+
+
 ### Subject matter expert
 
 <b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
