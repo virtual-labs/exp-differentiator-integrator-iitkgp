@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/">
+	<document-info>
+		<title>Time Domain Response</title>
+		<summary></summary>
+		<author/>
+		<keywords/>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/>
+		<view-link href="/Viewer.swf?slide={position}"/>
+	</document-info>
+	<section type="slide" position="1" xmlns="">
+		<title>RC CIRCUITS</title>
+		<content>RC CIRCUITS Time Domain Response  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/>
+	</section>
+	<section type="slide" position="2" xmlns="">
+		<title>Objectives</title>
+		<content>Objectives At the end of this module the student would be able to Explain  Charging of RC Circuit with DC SourceExplain Discharging of RC Circuit with DC SourceExplain Square wave response of RC CircuitExplain RC Circuit as IntegratorExplain RC Circuit as Differentiator  </content>
+		<related-content>Sir will get back with the objectives.&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000002.jpg"/>
+	</section>
+	<section type="slide" position="3" xmlns="">
+		<title>From our Earlier Lessons</title>
+		<content>Capacitor helps us make circuits that ‘remember’ their recent history. This ability allows us to make ‘timing’ circuits – circuits that let ‘this’ happen a predetermined time after ‘that’ occurs. From our Earlier Lessons  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000003.jpg"/>
+	</section>
+	<section type="slide" position="4" xmlns="">
+		<title>Mathematical Notion</title>
+		<content>Mathematical Notion A static description of the way a capacitor behaves would be to say Q = CV, where Q is the total charge, C is a measure of how big the capacitor is and V is the voltage across it.A dynamic description, ie one that changes with time would be to say I = C dV/dt.  This is just the time derivative of the static description. C is constant wrt time, I is the rate at which charge flows. This essentially says  - the bigger the current, the faster the capacitor’s voltage changes.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000004.jpg"/>
+	</section>
+	<section type="slide" position="5" xmlns="">
+		<title>Analogy</title>
+		<content> Analogy Think of Capacitor as a tub that can hold charge. A tub of large diameter ( C ), holds a lot of water ( Q) for a given height ( V). If you fill the tub with a thin straw ( small I ) then water level – V – will rise slowly. If you use a large pipe ( large V ) then water level will rise faster.  Similar for draining ( discharging ) tub.  Of course a tub of larger diameter takes longer to fill than a tub of smaller diameter.       V Tub size is  C Volume of water is ‘Q’  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000005.jpg"/>
+	</section>
+	<section type="slide" position="6" xmlns="">
+		<title>Charging with DC Source </title>
+		<content>Charging with DC Source  The Voltage across the capacitor approaches the applied voltage  - but at a rate that diminishes towards zero as Vcap approaches the applied voltage. It starts out strongly charging at 10mA but as it is 1V away it has slowed to 1/10 its rate.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000006.jpg"/>
+	</section>
+	<section type="slide" position="7" xmlns="">
+		<title>Question ?</title>
+		<content>Does Vcap ever reach the applied Voltage of 10 V ?  Question ?  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000007.jpg"/>
+	</section>
+	<section type="slide" position="8" xmlns="">
+		<title>Charging with DC Source</title>
+		<content>Charging with DC Source In 1 time constant = RC, the capacitor charges 63% of the wayIn 5 time constants = 5*RC, the capacitor charges 100% of the wayVcap never reaches Vapplies   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000008.jpg"/>
+	</section>
+	<section type="slide" position="9" xmlns="">
+		<title>Discharging with DC Source</title>
+		<content>Discharging with DC Source Discharging follows similar principles to charging In 1 time constant = RC, the capacitor discharges 63% of the wayIn 5 time constants = 5*RC, the capacitor charges 100% of the way   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000009.jpg"/>
+	</section>
+	<section type="slide" position="10" xmlns="">
+		<title>Exploratory – Charging with DC Source</title>
+		<content>Exploratory – Charging with DC Source  How would the graph change if keeping C constant R is decreased ? Will the rate of change of voltage increase or decrease ?  How will the time constant ( RC ) change ?  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000010.jpg"/>
+	</section>
+	<section type="slide" position="11" xmlns="">
+		<title>Exploratory – Charging with DC Source</title>
+		<content>Exploratory – Charging with DC Source  Decreasing R would increase current, thus would increase dV/dt = I/C. Rate of change of Voltage would increase.  Time constant ( RC ) would decrease, so it will charge faster.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000011.jpg"/>
+	</section>
+	<section type="slide" position="12" xmlns="">
+		<title>Exploratory – Charging with DC Source</title>
+		<content>Exploratory – Charging with DC Source  How would the graph change if keeping R constant C is increased ? Will the rate of change of voltage increase or decrease ?  How will the time constant ( RC ) change ?  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000012.jpg"/>
+	</section>
+	<section type="slide" position="13" xmlns="">
+		<title>Square Wave Response of RC Circuit</title>
+		<content>After studying how a constant source affects the charging-discharging of a RC circuit, let us change the constant source to a source which changes very fast and observe the response of an RC Circuit. Square Wave Response of RC Circuit  </content>
+		<related-content>Square Wave Response&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000013.jpg"/>
+	</section>
+	<section type="slide" position="14" xmlns="">
+		<title>Square Wave Response of an RC Circuit</title>
+		<content>Square Wave Response of an RC Circuit We want to study the transient behavior of the RC circuit when we suddenly change the voltage across the circuit.  In order to do this we generate a square wave and observe the response of the voltage across the capacitor using an oscilloscope.  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000014.jpg"/>
+	</section>
+	<section type="slide" position="15" xmlns="">
+		<title>Characteristics of a Square Wave</title>
+		<content>Characteristics of a Square Wave  The pulse goes from −V to V and has a period T. What is the response of the RC circuit to this periodic square wave? In the laboratory, you will not study the response of an RC circuit to a single voltage step or voltage pulse, rather, you will study the response to a periodic square wave with the waveform illustrated below -  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000015.jpg"/>
+	</section>
+	<section type="slide" position="16" xmlns="">
+		<title>Square Wave Response – slow change</title>
+		<content>Square Wave Response – slow change Since we have seen that a time of 5T where T = R*C is needed for the capacitor to charge fully, let us first take a time period of the square wave large enough to charge the capacitor. So we take Time period of Square wave  &gt; &gt; RC. So in effect, this square wave is changing slowly.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000016.jpg"/>
+	</section>
+	<section type="slide" position="17" xmlns="">
+		<title>Important Observations </title>
+		<content>Important Observations  These experiments were done in the time domain. However in the frequency domain a signal which changes fast would mean it’s a high frequency signal ( or it has a high frequency components ) , a signal which changes slowly would mean it has low frequency components and a signal which does not change very fast has medium frequency components. Clearly we saw the following response of RC circuit for the different frequencies as -   </content>
+		<related-content>Square wave is actually a combination of sine waves of fundamental frequency and the subsequent harmonics. Simulation to show this.&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000017.jpg"/>
+	</section>
+	<section type="slide" position="18" xmlns="">
+		<title>Integrators and Differentiators</title>
+		<content>Integrators and Differentiators  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000018.jpg"/>
+	</section>
+	<section type="slide" position="19" xmlns="">
+		<title>What is an integrator ?</title>
+		<content>What is an integrator ? Circuit         The Integrator is a circuit that converts or ‘integrates’ a square wave input signal into a triangular waveform output.   </content>
+		<related-content>Physical significance of Integrator – Accumulation of charge.&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000019.jpg"/>
+	</section>
+	<section type="slide" position="20" xmlns="">
+		<title>What is an differentiator ?</title>
+		<content>What is an differentiator ? Circuit        The Differentiator circuit converts or ‘differentiates’ a square wave input signal into high frequency spikes at its output.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000020.jpg"/>
+	</section>
+	<section type="slide" position="21" xmlns="">
+		<title>RC as Integrators and Differentiators ?</title>
+		<content>RC as Integrators and Differentiators ? Can we exploit capacitors I = CdV/dt to make differentiator and integrator ?   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000021.jpg"/>
+	</section>
+	<section type="slide" position="22" xmlns="">
+		<title>RC Circuit as Differentiator</title>
+		<content>RC Circuit as Differentiator  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000022.jpg"/>
+	</section>
+	<section type="slide" position="23" xmlns="">
+		<title>Basic differentiation</title>
+		<content>Basic differentiation Consider this circuit – the current that flows in the capacitor is proportional to dV/dt – ie, the circuit differentiates the input signal. But – we really cant measure the current here. Let us try to do that.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000023.jpg"/>
+	</section>
+	<section type="slide" position="24" xmlns="">
+		<title>Basic differentiation</title>
+		<content>Basic differentiation So, we put a resistor to measure the current but choose a very small resistor so that there will be very small voltage drop such that dVcap/dt ≈ dVin/dt.    </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000024.jpg"/>
+	</section>
+	<section type="slide" position="25" xmlns="">
+		<title>RC as Differentiator</title>
+		<content>RC as Differentiator In an RC circuit if we take the voltage drop across R, and if we keep RC time constant is very short compared to the time period of the input waveform we will be differentiating the square wave.   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000025.jpg"/>
+	</section>
+	<section type="slide" position="26" xmlns="">
+		<title>RC Circuit as Integrator</title>
+		<content>RC Circuit as Integrator  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000026.jpg"/>
+	</section>
+	<section type="slide" position="27" xmlns="">
+		<title>We understand – Integrator </title>
+		<content>We understand – Integrator  Circuit         The Integrator is a circuit that converts or ‘integrates’ a square wave input signal into a triangular waveform output.   </content>
+		<related-content>Physical significance of Integrator – Accumulation of charge.&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000027.jpg"/>
+	</section>
+	<section type="slide" position="28" xmlns="">
+		<title>Simple Integrator</title>
+		<content>Simple Integrator Consider this simple circuit – if we had a constant current source that flows in the capacitor, dVcap/dt – would be constant and we would have a ramp.    </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000028.jpg"/>
+	</section>
+	<section type="slide" position="29" xmlns="">
+		<title>Simple Integrator</title>
+		<content>Simple Integrator To generate a triangle wave – we can simply have the following setup. But of course – constant current sources are rare. So, how can we have this with a square wave generator ?   </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000029.jpg"/>
+	</section>
+	<section type="slide" position="30" xmlns="">
+		<title>RC as  Integrator</title>
+		<content>RC as  Integrator So, we put a Resistor such that we can control the current and ideally try to have dVout / dt to be a constant. Since the current does not change much during the initial part of the charging and discharging of the capacitor, the value of RC must be chosen such that it is large compared to the time period of the square wave.  Vout  </content>
+		<related-content>&lt;br&gt;&lt;br&gt;</related-content>
+		<thumbnail href="data/thumb/thumb_slide_000030.jpg"/>
+	</section>
+</document-metadata>
