@@ -8,7 +8,7 @@
 <b>Discipline | <b> Electronics and Communication and Engineering 
 :--|:--|
 <b> Lab | <b> **Basic Electronics**
-<b> Experiment|     <b> **RC Frequency Response and Experiment 13**
+<b> Experiment|     <b> **RC Differentiator and Integrator and Experiment 14**
 
 
 ### Subject matter expert
