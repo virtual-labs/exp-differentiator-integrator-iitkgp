@@ -1,0 +1,1568 @@
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/cktconnection.js
+    1:1   warning  'jsPlumb' is not defined                       no-undef
+    6:9   warning  'addDisc' is assigned a value but never used   no-unused-vars
+    8:17  warning  'e' is assigned a value but never used         no-unused-vars
+   15:9   warning  'reset' is assigned a value but never used     no-unused-vars
+   28:48  warning  'e' is defined but never used                  no-unused-vars
+   28:51  warning  'ui' is defined but never used                 no-unused-vars
+   30:21  warning  'jsPlumb' is not defined                       no-undef
+   72:16  warning  'jsPlumb' is not defined                       no-undef
+   81:13  warning  'e1' is assigned a value but never used        no-unused-vars
+   82:13  warning  'e3' is assigned a value but never used        no-unused-vars
+   83:13  warning  'e4' is assigned a value but never used        no-unused-vars
+   84:13  warning  'e5' is assigned a value but never used        no-unused-vars
+   85:13  warning  'e6' is assigned a value but never used        no-unused-vars
+   86:13  warning  'e7' is assigned a value but never used        no-unused-vars
+   87:13  warning  'e8' is assigned a value but never used        no-unused-vars
+   88:13  warning  'e9' is assigned a value but never used        no-unused-vars
+   91:13  warning  'e12' is assigned a value but never used       no-unused-vars
+   93:13  warning  'clearBtn' is assigned a value but never used  no-unused-vars
+   93:24  warning  'jsPlumb' is not defined                       no-undef
+   94:13  warning  'addBtn' is assigned a value but never used    no-unused-vars
+   94:22  warning  'jsPlumb' is not defined                       no-undef
+   96:28  warning  'jsPlumb' is not defined                       no-undef
+   99:17  warning  'jsPlumbUtil' is not defined                   no-undef
+  110:5   warning  'jsPlumb' is not defined                       no-undef
+  285:13  warning  'count' is assigned a value but never used     no-unused-vars
+  426:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  427:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  428:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  429:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  430:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  444:10  warning  'deleteconnection' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/cktconnection_diff.js
+    1:1   warning  'jsPlumb' is not defined                       no-undef
+    6:9   warning  'addDisc' is assigned a value but never used   no-unused-vars
+    8:17  warning  'e' is assigned a value but never used         no-unused-vars
+   15:9   warning  'reset' is assigned a value but never used     no-unused-vars
+   28:48  warning  'e' is defined but never used                  no-unused-vars
+   28:51  warning  'ui' is defined but never used                 no-unused-vars
+   30:21  warning  'jsPlumb' is not defined                       no-undef
+   86:16  warning  'jsPlumb' is not defined                       no-undef
+   95:13  warning  'e1' is assigned a value but never used        no-unused-vars
+   96:13  warning  'e3' is assigned a value but never used        no-unused-vars
+   97:13  warning  'e4' is assigned a value but never used        no-unused-vars
+   98:13  warning  'e5' is assigned a value but never used        no-unused-vars
+   99:13  warning  'e6' is assigned a value but never used        no-unused-vars
+  100:13  warning  'e7' is assigned a value but never used        no-unused-vars
+  101:13  warning  'e8' is assigned a value but never used        no-unused-vars
+  102:13  warning  'e9' is assigned a value but never used        no-unused-vars
+  103:13  warning  'e12' is assigned a value but never used       no-unused-vars
+  105:13  warning  'clearBtn' is assigned a value but never used  no-unused-vars
+  105:24  warning  'jsPlumb' is not defined                       no-undef
+  106:13  warning  'addBtn' is assigned a value but never used    no-unused-vars
+  106:22  warning  'jsPlumb' is not defined                       no-undef
+  108:28  warning  'jsPlumb' is not defined                       no-undef
+  111:17  warning  'jsPlumbUtil' is not defined                   no-undef
+  122:5   warning  'jsPlumb' is not defined                       no-undef
+  277:13  warning  'count' is assigned a value but never used     no-unused-vars
+  400:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  401:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  404:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  405:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  419:10  warning  'deleteconnection' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/cktconnection_int.js
+    1:1   warning  'jsPlumb' is not defined                       no-undef
+    6:9   warning  'addDisc' is assigned a value but never used   no-unused-vars
+    8:17  warning  'e' is assigned a value but never used         no-unused-vars
+   15:9   warning  'reset' is assigned a value but never used     no-unused-vars
+   28:48  warning  'e' is defined but never used                  no-unused-vars
+   28:51  warning  'ui' is defined but never used                 no-unused-vars
+   30:21  warning  'jsPlumb' is not defined                       no-undef
+   86:16  warning  'jsPlumb' is not defined                       no-undef
+   95:13  warning  'e1' is assigned a value but never used        no-unused-vars
+   96:13  warning  'e3' is assigned a value but never used        no-unused-vars
+   97:13  warning  'e4' is assigned a value but never used        no-unused-vars
+   98:13  warning  'e5' is assigned a value but never used        no-unused-vars
+   99:13  warning  'e6' is assigned a value but never used        no-unused-vars
+  100:13  warning  'e7' is assigned a value but never used        no-unused-vars
+  101:13  warning  'e8' is assigned a value but never used        no-unused-vars
+  102:13  warning  'e9' is assigned a value but never used        no-unused-vars
+  103:13  warning  'e12' is assigned a value but never used       no-unused-vars
+  105:13  warning  'clearBtn' is assigned a value but never used  no-unused-vars
+  105:24  warning  'jsPlumb' is not defined                       no-undef
+  106:13  warning  'addBtn' is assigned a value but never used    no-unused-vars
+  106:22  warning  'jsPlumb' is not defined                       no-undef
+  108:28  warning  'jsPlumb' is not defined                       no-undef
+  111:17  warning  'jsPlumbUtil' is not defined                   no-undef
+  122:5   warning  'jsPlumb' is not defined                       no-undef
+  277:13  warning  'count' is assigned a value but never used     no-unused-vars
+  400:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  401:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  403:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  404:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  418:10  warning  'deleteconnection' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diff/sincosjs.js
+    1:5   warning  'vmaxs' is assigned a value but never used  no-unused-vars
+    3:5   warning  'flag' is assigned a value but never used   no-unused-vars
+    6:10  warning  'switcimage' is defined but never used      no-unused-vars
+    9:37  warning  'switchimage' is not defined                no-undef
+   10:5   warning  'canvas' is not defined                     no-undef
+   11:5   warning  'ctx' is not defined                        no-undef
+   11:11  warning  'canvas' is not defined                     no-undef
+   16:9   warning  'clearCanvas' is not defined                no-undef
+   17:9   warning  'drawAxis' is not defined                   no-undef
+   18:9   warning  'drawGrid' is not defined                   no-undef
+   18:18  warning  'ctx' is not defined                        no-undef
+   33:5   warning  'canvas' is not defined                     no-undef
+   34:17  warning  'canvas' is not defined                     no-undef
+   34:28  warning  'canvas' is not defined                     no-undef
+   36:5   warning  'ctx' is not defined                        no-undef
+   36:11  warning  'canvas' is not defined                     no-undef
+   38:5   warning  'ctx' is not defined                        no-undef
+   39:5   warning  'ctx' is not defined                        no-undef
+   39:24  warning  'canvas' is not defined                     no-undef
+   39:38  warning  'canvas' is not defined                     no-undef
+   40:5   warning  'drawGrid' is not defined                   no-undef
+   40:14  warning  'ctx' is not defined                        no-undef
+   41:5   warning  'drawAxis' is not defined                   no-undef
+   46:5   warning  'clearCanvas' is not defined                no-undef
+   47:5   warning  'drawGrid' is not defined                   no-undef
+   47:14  warning  'ctx' is not defined                        no-undef
+   79:9   warning  'pos' is already defined                    no-redeclare
+   88:5   warning  'ctx' is not defined                        no-undef
+   89:5   warning  'ctx' is not defined                        no-undef
+   90:5   warning  'ctx' is not defined                        no-undef
+   99:13  warning  'ctx' is not defined                        no-undef
+  101:13  warning  'ctx' is not defined                        no-undef
+  104:5   warning  'ctx' is not defined                        no-undef
+  110:5   warning  'canvas' is not defined                     no-undef
+  111:17  warning  'canvas' is not defined                     no-undef
+  111:28  warning  'canvas' is not defined                     no-undef
+  113:5   warning  'ctx' is not defined                        no-undef
+  113:11  warning  'canvas' is not defined                     no-undef
+  115:5   warning  'ctx' is not defined                        no-undef
+  116:5   warning  'ctx' is not defined                        no-undef
+  116:24  warning  'canvas' is not defined                     no-undef
+  116:38  warning  'canvas' is not defined                     no-undef
+  117:5   warning  'drawGrid' is not defined                   no-undef
+  117:14  warning  'ctx' is not defined                        no-undef
+  118:5   warning  'drawAxis' is not defined                   no-undef
+  150:9   warning  'pos' is already defined                    no-redeclare
+  159:5   warning  'ctx' is not defined                        no-undef
+  160:5   warning  'ctx' is not defined                        no-undef
+  161:5   warning  'ctx' is not defined                        no-undef
+  170:13  warning  'ctx' is not defined                        no-undef
+  172:13  warning  'ctx' is not defined                        no-undef
+  175:5   warning  'ctx' is not defined                        no-undef
+  178:10  warning  'drawsncsbt' is defined but never used      no-unused-vars
+  179:5   warning  'canvas' is not defined                     no-undef
+  180:17  warning  'canvas' is not defined                     no-undef
+  180:28  warning  'canvas' is not defined                     no-undef
+  182:5   warning  'ctx' is not defined                        no-undef
+  182:11  warning  'canvas' is not defined                     no-undef
+  184:5   warning  'ctx' is not defined                        no-undef
+  185:5   warning  'ctx' is not defined                        no-undef
+  185:24  warning  'canvas' is not defined                     no-undef
+  185:38  warning  'canvas' is not defined                     no-undef
+  186:5   warning  'drawGrid' is not defined                   no-undef
+  186:14  warning  'ctx' is not defined                        no-undef
+  187:5   warning  'drawAxis' is not defined                   no-undef
+  217:9   warning  'pos' is already defined                    no-redeclare
+  226:5   warning  'ctx' is not defined                        no-undef
+  227:5   warning  'ctx' is not defined                        no-undef
+  228:5   warning  'ctx' is not defined                        no-undef
+  237:13  warning  'ctx' is not defined                        no-undef
+  239:13  warning  'ctx' is not defined                        no-undef
+  242:5   warning  'ctx' is not defined                        no-undef
+  264:12  warning  'x0' is already defined                     no-redeclare
+  264:16  warning  'y0' is already defined                     no-redeclare
+  264:20  warning  'xscale' is already defined                 no-redeclare
+  264:28  warning  'yscale' is already defined                 no-redeclare
+  275:5   warning  'ctx' is not defined                        no-undef
+  276:5   warning  'ctx' is not defined                        no-undef
+  277:5   warning  'ctx' is not defined                        no-undef
+  278:9   warning  'p' is already defined                      no-redeclare
+  286:13  warning  'ctx' is not defined                        no-undef
+  288:13  warning  'ctx' is not defined                        no-undef
+  291:5   warning  'ctx' is not defined                        no-undef
+  296:10  warning  'drawsncsgr' is defined but never used      no-unused-vars
+  297:5   warning  'canvas' is not defined                     no-undef
+  298:17  warning  'canvas' is not defined                     no-undef
+  298:28  warning  'canvas' is not defined                     no-undef
+  300:5   warning  'ctx' is not defined                        no-undef
+  300:11  warning  'canvas' is not defined                     no-undef
+  302:5   warning  'ctx' is not defined                        no-undef
+  303:5   warning  'ctx' is not defined                        no-undef
+  303:24  warning  'canvas' is not defined                     no-undef
+  303:38  warning  'canvas' is not defined                     no-undef
+  304:5   warning  'drawGrid' is not defined                   no-undef
+  304:14  warning  'ctx' is not defined                        no-undef
+  305:5   warning  'drawAxis' is not defined                   no-undef
+  335:9   warning  'pos' is already defined                    no-redeclare
+  344:5   warning  'ctx' is not defined                        no-undef
+  345:5   warning  'ctx' is not defined                        no-undef
+  346:5   warning  'ctx' is not defined                        no-undef
+  355:13  warning  'ctx' is not defined                        no-undef
+  357:13  warning  'ctx' is not defined                        no-undef
+  360:5   warning  'ctx' is not defined                        no-undef
+  382:12  warning  'x0' is already defined                     no-redeclare
+  382:16  warning  'y0' is already defined                     no-redeclare
+  382:20  warning  'xscale' is already defined                 no-redeclare
+  382:28  warning  'yscale' is already defined                 no-redeclare
+  393:5   warning  'ctx' is not defined                        no-undef
+  394:5   warning  'ctx' is not defined                        no-undef
+  395:5   warning  'ctx' is not defined                        no-undef
+  396:9   warning  'p' is already defined                      no-redeclare
+  404:13  warning  'ctx' is not defined                        no-undef
+  406:13  warning  'ctx' is not defined                        no-undef
+  409:5   warning  'ctx' is not defined                        no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diff/sqrspkjs.js
+    1:5   warning  'vmaxs' is assigned a value but never used  no-unused-vars
+    3:5   warning  'flag' is assigned a value but never used   no-unused-vars
+    6:10  warning  'switchimage' is defined but never used     no-unused-vars
+   10:5   warning  'canvas' is not defined                     no-undef
+   11:5   warning  'ctx' is not defined                        no-undef
+   11:11  warning  'canvas' is not defined                     no-undef
+   16:9   warning  'clearCanvas' is not defined                no-undef
+   17:9   warning  'drawAxis' is not defined                   no-undef
+   18:9   warning  'drawGrid' is not defined                   no-undef
+   18:18  warning  'ctx' is not defined                        no-undef
+   29:5   warning  'canvas' is not defined                     no-undef
+   30:17  warning  'canvas' is not defined                     no-undef
+   30:28  warning  'canvas' is not defined                     no-undef
+   32:5   warning  'ctx' is not defined                        no-undef
+   32:11  warning  'canvas' is not defined                     no-undef
+   34:5   warning  'ctx' is not defined                        no-undef
+   35:5   warning  'ctx' is not defined                        no-undef
+   35:24  warning  'canvas' is not defined                     no-undef
+   35:38  warning  'canvas' is not defined                     no-undef
+   36:5   warning  'drawGrid' is not defined                   no-undef
+   36:14  warning  'ctx' is not defined                        no-undef
+   37:5   warning  'drawAxis' is not defined                   no-undef
+   44:5   warning  'clearCanvas' is not defined                no-undef
+   45:5   warning  'drawGrid' is not defined                   no-undef
+   45:14  warning  'ctx' is not defined                        no-undef
+   85:9   warning  'pos' is already defined                    no-redeclare
+   93:5   warning  'ctx' is not defined                        no-undef
+   94:5   warning  'ctx' is not defined                        no-undef
+   95:5   warning  'ctx' is not defined                        no-undef
+  104:13  warning  'ctx' is not defined                        no-undef
+  106:13  warning  'ctx' is not defined                        no-undef
+  110:5   warning  'ctx' is not defined                        no-undef
+  118:5   warning  'canvas' is not defined                     no-undef
+  119:17  warning  'canvas' is not defined                     no-undef
+  119:28  warning  'canvas' is not defined                     no-undef
+  121:5   warning  'ctx' is not defined                        no-undef
+  121:11  warning  'canvas' is not defined                     no-undef
+  123:5   warning  'ctx' is not defined                        no-undef
+  124:5   warning  'ctx' is not defined                        no-undef
+  124:24  warning  'canvas' is not defined                     no-undef
+  124:38  warning  'canvas' is not defined                     no-undef
+  125:5   warning  'drawGrid' is not defined                   no-undef
+  125:14  warning  'ctx' is not defined                        no-undef
+  126:5   warning  'drawAxis' is not defined                   no-undef
+  134:5   warning  'ctx' is not defined                        no-undef
+  135:5   warning  'ctx' is not defined                        no-undef
+  137:5   warning  'ctx' is not defined                        no-undef
+  138:5   warning  'ctx' is not defined                        no-undef
+  139:5   warning  'ctx' is not defined                        no-undef
+  140:5   warning  'ctx' is not defined                        no-undef
+  141:5   warning  'ctx' is not defined                        no-undef
+  142:5   warning  'ctx' is not defined                        no-undef
+  143:5   warning  'ctx' is not defined                        no-undef
+  144:5   warning  'ctx' is not defined                        no-undef
+  145:5   warning  'ctx' is not defined                        no-undef
+  146:5   warning  'ctx' is not defined                        no-undef
+  147:5   warning  'ctx' is not defined                        no-undef
+  148:5   warning  'ctx' is not defined                        no-undef
+  149:5   warning  'ctx' is not defined                        no-undef
+  150:5   warning  'ctx' is not defined                        no-undef
+  151:5   warning  'ctx' is not defined                        no-undef
+  155:10  warning  'drawsqrspk' is defined but never used      no-unused-vars
+  156:5   warning  'canvas' is not defined                     no-undef
+  157:17  warning  'canvas' is not defined                     no-undef
+  157:28  warning  'canvas' is not defined                     no-undef
+  159:5   warning  'ctx' is not defined                        no-undef
+  159:11  warning  'canvas' is not defined                     no-undef
+  160:5   warning  'ctx' is not defined                        no-undef
+  161:5   warning  'ctx' is not defined                        no-undef
+  161:24  warning  'canvas' is not defined                     no-undef
+  161:38  warning  'canvas' is not defined                     no-undef
+  163:5   warning  'drawGrid' is not defined                   no-undef
+  163:14  warning  'ctx' is not defined                        no-undef
+  164:5   warning  'drawAxis' is not defined                   no-undef
+  205:9   warning  'pos' is already defined                    no-redeclare
+  213:5   warning  'ctx' is not defined                        no-undef
+  214:5   warning  'ctx' is not defined                        no-undef
+  215:5   warning  'ctx' is not defined                        no-undef
+  224:13  warning  'ctx' is not defined                        no-undef
+  226:13  warning  'ctx' is not defined                        no-undef
+  230:5   warning  'ctx' is not defined                        no-undef
+  232:5   warning  'ctx' is not defined                        no-undef
+  233:5   warning  'ctx' is not defined                        no-undef
+  234:5   warning  'ctx' is not defined                        no-undef
+  235:5   warning  'ctx' is not defined                        no-undef
+  236:5   warning  'ctx' is not defined                        no-undef
+  237:5   warning  'ctx' is not defined                        no-undef
+  238:5   warning  'ctx' is not defined                        no-undef
+  239:5   warning  'ctx' is not defined                        no-undef
+  240:5   warning  'ctx' is not defined                        no-undef
+  241:5   warning  'ctx' is not defined                        no-undef
+  242:5   warning  'ctx' is not defined                        no-undef
+  243:5   warning  'ctx' is not defined                        no-undef
+  244:5   warning  'ctx' is not defined                        no-undef
+  245:5   warning  'ctx' is not defined                        no-undef
+  246:5   warning  'ctx' is not defined                        no-undef
+  247:5   warning  'ctx' is not defined                        no-undef
+  248:5   warning  'ctx' is not defined                        no-undef
+  252:10  warning  'drawsqrspkg' is defined but never used     no-unused-vars
+  253:5   warning  'canvas' is not defined                     no-undef
+  254:17  warning  'canvas' is not defined                     no-undef
+  254:28  warning  'canvas' is not defined                     no-undef
+  256:5   warning  'ctx' is not defined                        no-undef
+  256:11  warning  'canvas' is not defined                     no-undef
+  257:5   warning  'ctx' is not defined                        no-undef
+  258:5   warning  'ctx' is not defined                        no-undef
+  258:24  warning  'canvas' is not defined                     no-undef
+  258:38  warning  'canvas' is not defined                     no-undef
+  260:5   warning  'drawGrid' is not defined                   no-undef
+  260:14  warning  'ctx' is not defined                        no-undef
+  261:5   warning  'drawAxis' is not defined                   no-undef
+  296:9   warning  'pos' is already defined                    no-redeclare
+  304:5   warning  'ctx' is not defined                        no-undef
+  305:5   warning  'ctx' is not defined                        no-undef
+  306:5   warning  'ctx' is not defined                        no-undef
+  315:13  warning  'ctx' is not defined                        no-undef
+  317:13  warning  'ctx' is not defined                        no-undef
+  321:5   warning  'ctx' is not defined                        no-undef
+  323:5   warning  'ctx' is not defined                        no-undef
+  324:5   warning  'ctx' is not defined                        no-undef
+  325:5   warning  'ctx' is not defined                        no-undef
+  326:5   warning  'ctx' is not defined                        no-undef
+  327:5   warning  'ctx' is not defined                        no-undef
+  328:5   warning  'ctx' is not defined                        no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diff/trsqrjs - Copy.js
+    1:5   warning  'vmaxs' is assigned a value but never used  no-unused-vars
+    3:5   warning  'flag' is assigned a value but never used   no-unused-vars
+    6:10  warning  'switchimag' is defined but never used      no-unused-vars
+    9:37  warning  'switchimage' is not defined                no-undef
+   10:5   warning  'canvas' is not defined                     no-undef
+   11:5   warning  'ctx' is not defined                        no-undef
+   11:11  warning  'canvas' is not defined                     no-undef
+   16:9   warning  'clearCanvas' is not defined                no-undef
+   17:9   warning  'drawAxis' is not defined                   no-undef
+   18:9   warning  'drawGrid' is not defined                   no-undef
+   18:18  warning  'ctx' is not defined                        no-undef
+   28:5   warning  'canvas' is not defined                     no-undef
+   29:17  warning  'canvas' is not defined                     no-undef
+   29:28  warning  'canvas' is not defined                     no-undef
+   31:5   warning  'ctx' is not defined                        no-undef
+   31:11  warning  'canvas' is not defined                     no-undef
+   33:5   warning  'ctx' is not defined                        no-undef
+   34:5   warning  'ctx' is not defined                        no-undef
+   34:24  warning  'canvas' is not defined                     no-undef
+   34:38  warning  'canvas' is not defined                     no-undef
+   35:5   warning  'drawGrid' is not defined                   no-undef
+   35:14  warning  'ctx' is not defined                        no-undef
+   36:5   warning  'drawAxis' is not defined                   no-undef
+   42:5   warning  'clearCanvas' is not defined                no-undef
+   43:5   warning  'drawGrid' is not defined                   no-undef
+   43:14  warning  'ctx' is not defined                        no-undef
+   48:5   warning  'ctx' is not defined                        no-undef
+   49:5   warning  'ctx' is not defined                        no-undef
+   52:5   warning  'ctx' is not defined                        no-undef
+   53:5   warning  'ctx' is not defined                        no-undef
+   55:9   warning  'ctx' is not defined                        no-undef
+   56:9   warning  'ctx' is not defined                        no-undef
+   58:5   warning  'ctx' is not defined                        no-undef
+   64:5   warning  'canvas' is not defined                     no-undef
+   65:17  warning  'canvas' is not defined                     no-undef
+   65:28  warning  'canvas' is not defined                     no-undef
+   67:5   warning  'ctx' is not defined                        no-undef
+   67:11  warning  'canvas' is not defined                     no-undef
+   69:5   warning  'ctx' is not defined                        no-undef
+   70:5   warning  'ctx' is not defined                        no-undef
+   70:24  warning  'canvas' is not defined                     no-undef
+   70:38  warning  'canvas' is not defined                     no-undef
+   71:5   warning  'drawGrid' is not defined                   no-undef
+   71:14  warning  'ctx' is not defined                        no-undef
+   72:5   warning  'drawAxis' is not defined                   no-undef
+  112:9   warning  'pos' is already defined                    no-redeclare
+  120:5   warning  'ctx' is not defined                        no-undef
+  121:5   warning  'ctx' is not defined                        no-undef
+  122:5   warning  'ctx' is not defined                        no-undef
+  131:13  warning  'ctx' is not defined                        no-undef
+  133:13  warning  'ctx' is not defined                        no-undef
+  137:5   warning  'ctx' is not defined                        no-undef
+  140:10  warning  'drawsqtr' is defined but never used        no-unused-vars
+  141:5   warning  'canvas' is not defined                     no-undef
+  142:17  warning  'canvas' is not defined                     no-undef
+  142:28  warning  'canvas' is not defined                     no-undef
+  144:5   warning  'ctx' is not defined                        no-undef
+  144:11  warning  'canvas' is not defined                     no-undef
+  145:5   warning  'ctx' is not defined                        no-undef
+  146:5   warning  'ctx' is not defined                        no-undef
+  146:24  warning  'canvas' is not defined                     no-undef
+  146:38  warning  'canvas' is not defined                     no-undef
+  148:5   warning  'drawGrid' is not defined                   no-undef
+  148:14  warning  'ctx' is not defined                        no-undef
+  149:5   warning  'drawAxis' is not defined                   no-undef
+  158:5   warning  'ctx' is not defined                        no-undef
+  159:5   warning  'ctx' is not defined                        no-undef
+  160:5   warning  'ctx' is not defined                        no-undef
+  161:5   warning  'ctx' is not defined                        no-undef
+  163:9   warning  'ctx' is not defined                        no-undef
+  164:9   warning  'ctx' is not defined                        no-undef
+  166:5   warning  'ctx' is not defined                        no-undef
+  204:9   warning  'pos' is already defined                    no-redeclare
+  212:5   warning  'ctx' is not defined                        no-undef
+  213:5   warning  'ctx' is not defined                        no-undef
+  214:5   warning  'ctx' is not defined                        no-undef
+  223:13  warning  'ctx' is not defined                        no-undef
+  225:13  warning  'ctx' is not defined                        no-undef
+  229:5   warning  'ctx' is not defined                        no-undef
+  235:10  warning  'drawtrgr' is defined but never used        no-unused-vars
+  236:5   warning  'canvas' is not defined                     no-undef
+  237:17  warning  'canvas' is not defined                     no-undef
+  237:28  warning  'canvas' is not defined                     no-undef
+  239:5   warning  'ctx' is not defined                        no-undef
+  239:11  warning  'canvas' is not defined                     no-undef
+  240:5   warning  'ctx' is not defined                        no-undef
+  241:5   warning  'ctx' is not defined                        no-undef
+  241:24  warning  'canvas' is not defined                     no-undef
+  241:38  warning  'canvas' is not defined                     no-undef
+  249:5   warning  'drawGrid' is not defined                   no-undef
+  249:14  warning  'ctx' is not defined                        no-undef
+  250:5   warning  'drawAxis' is not defined                   no-undef
+  259:5   warning  'ctx' is not defined                        no-undef
+  260:5   warning  'ctx' is not defined                        no-undef
+  261:5   warning  'ctx' is not defined                        no-undef
+  262:5   warning  'ctx' is not defined                        no-undef
+  263:5   warning  'ctx' is not defined                        no-undef
+  264:5   warning  'ctx' is not defined                        no-undef
+  301:9   warning  'pos' is already defined                    no-redeclare
+  309:5   warning  'ctx' is not defined                        no-undef
+  310:5   warning  'ctx' is not defined                        no-undef
+  311:5   warning  'ctx' is not defined                        no-undef
+  320:13  warning  'ctx' is not defined                        no-undef
+  322:13  warning  'ctx' is not defined                        no-undef
+  326:5   warning  'ctx' is not defined                        no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diff/trsqrjs.js
+    1:5   warning  'vmaxs' is assigned a value but never used  no-unused-vars
+    3:5   warning  'flag' is assigned a value but never used   no-unused-vars
+    6:10  warning  'switchimag' is defined but never used      no-unused-vars
+    9:37  warning  'switchimage' is not defined                no-undef
+   10:5   warning  'canvas' is not defined                     no-undef
+   11:5   warning  'ctx' is not defined                        no-undef
+   11:11  warning  'canvas' is not defined                     no-undef
+   16:9   warning  'clearCanvas' is not defined                no-undef
+   17:9   warning  'drawAxis' is not defined                   no-undef
+   18:9   warning  'drawGrid' is not defined                   no-undef
+   18:18  warning  'ctx' is not defined                        no-undef
+   28:5   warning  'canvas' is not defined                     no-undef
+   29:17  warning  'canvas' is not defined                     no-undef
+   29:28  warning  'canvas' is not defined                     no-undef
+   31:5   warning  'ctx' is not defined                        no-undef
+   31:11  warning  'canvas' is not defined                     no-undef
+   33:5   warning  'ctx' is not defined                        no-undef
+   34:5   warning  'ctx' is not defined                        no-undef
+   34:24  warning  'canvas' is not defined                     no-undef
+   34:38  warning  'canvas' is not defined                     no-undef
+   35:5   warning  'drawGrid' is not defined                   no-undef
+   35:14  warning  'ctx' is not defined                        no-undef
+   36:5   warning  'drawAxis' is not defined                   no-undef
+   42:5   warning  'clearCanvas' is not defined                no-undef
+   43:5   warning  'drawGrid' is not defined                   no-undef
+   43:14  warning  'ctx' is not defined                        no-undef
+   57:9   warning  'x2' is assigned a value but never used     no-unused-vars
+   81:9   warning  'pos' is already defined                    no-redeclare
+   89:5   warning  'ctx' is not defined                        no-undef
+   90:5   warning  'ctx' is not defined                        no-undef
+   91:5   warning  'ctx' is not defined                        no-undef
+   92:9   warning  'p' is already defined                      no-redeclare
+  101:13  warning  'ctx' is not defined                        no-undef
+  103:13  warning  'ctx' is not defined                        no-undef
+  109:5   warning  'ctx' is not defined                        no-undef
+  115:5   warning  'canvas' is not defined                     no-undef
+  116:17  warning  'canvas' is not defined                     no-undef
+  116:28  warning  'canvas' is not defined                     no-undef
+  118:5   warning  'ctx' is not defined                        no-undef
+  118:11  warning  'canvas' is not defined                     no-undef
+  120:5   warning  'ctx' is not defined                        no-undef
+  121:5   warning  'ctx' is not defined                        no-undef
+  121:24  warning  'canvas' is not defined                     no-undef
+  121:38  warning  'canvas' is not defined                     no-undef
+  122:5   warning  'drawGrid' is not defined                   no-undef
+  122:14  warning  'ctx' is not defined                        no-undef
+  123:5   warning  'drawAxis' is not defined                   no-undef
+  163:9   warning  'pos' is already defined                    no-redeclare
+  171:5   warning  'ctx' is not defined                        no-undef
+  172:5   warning  'ctx' is not defined                        no-undef
+  173:5   warning  'ctx' is not defined                        no-undef
+  182:13  warning  'ctx' is not defined                        no-undef
+  184:13  warning  'ctx' is not defined                        no-undef
+  188:5   warning  'ctx' is not defined                        no-undef
+  191:10  warning  'drawsqtr' is defined but never used        no-unused-vars
+  192:5   warning  'canvas' is not defined                     no-undef
+  193:17  warning  'canvas' is not defined                     no-undef
+  193:28  warning  'canvas' is not defined                     no-undef
+  195:5   warning  'ctx' is not defined                        no-undef
+  195:11  warning  'canvas' is not defined                     no-undef
+  196:5   warning  'ctx' is not defined                        no-undef
+  197:5   warning  'ctx' is not defined                        no-undef
+  197:24  warning  'canvas' is not defined                     no-undef
+  197:38  warning  'canvas' is not defined                     no-undef
+  199:5   warning  'drawGrid' is not defined                   no-undef
+  199:14  warning  'ctx' is not defined                        no-undef
+  200:5   warning  'drawAxis' is not defined                   no-undef
+  214:9   warning  'x2' is assigned a value but never used     no-unused-vars
+  238:9   warning  'pos' is already defined                    no-redeclare
+  246:5   warning  'ctx' is not defined                        no-undef
+  247:5   warning  'ctx' is not defined                        no-undef
+  248:5   warning  'ctx' is not defined                        no-undef
+  249:9   warning  'p' is already defined                      no-redeclare
+  258:13  warning  'ctx' is not defined                        no-undef
+  260:13  warning  'ctx' is not defined                        no-undef
+  266:5   warning  'ctx' is not defined                        no-undef
+  270:9   warning  'Vp' is already defined                     no-redeclare
+  271:9   warning  'fo' is already defined                     no-redeclare
+  272:9   warning  'phase' is already defined                  no-redeclare
+  273:9   warning  'pos' is already defined                    no-redeclare
+  275:9   warning  'x' is already defined                      no-redeclare
+  275:26  warning  'y' is already defined                      no-redeclare
+  276:9   warning  'dt' is already defined                     no-redeclare
+  276:13  warning  'tstart' is already defined                 no-redeclare
+  276:21  warning  'tstop' is already defined                  no-redeclare
+  302:9   warning  'i' is already defined                      no-redeclare
+  302:12  warning  'x0' is already defined                     no-redeclare
+  302:16  warning  'y0' is already defined                     no-redeclare
+  302:20  warning  'xscale' is already defined                 no-redeclare
+  302:28  warning  'yscale' is already defined                 no-redeclare
+  303:9   warning  'xp' is already defined                     no-redeclare
+  303:13  warning  'yp' is already defined                     no-redeclare
+  304:9   warning  'pos' is already defined                    no-redeclare
+  312:5   warning  'ctx' is not defined                        no-undef
+  313:5   warning  'ctx' is not defined                        no-undef
+  314:5   warning  'ctx' is not defined                        no-undef
+  315:9   warning  'p' is already defined                      no-redeclare
+  323:13  warning  'ctx' is not defined                        no-undef
+  325:13  warning  'ctx' is not defined                        no-undef
+  329:5   warning  'ctx' is not defined                        no-undef
+  335:10  warning  'drawtrgr' is defined but never used        no-unused-vars
+  336:5   warning  'canvas' is not defined                     no-undef
+  337:17  warning  'canvas' is not defined                     no-undef
+  337:28  warning  'canvas' is not defined                     no-undef
+  339:5   warning  'ctx' is not defined                        no-undef
+  339:11  warning  'canvas' is not defined                     no-undef
+  340:5   warning  'ctx' is not defined                        no-undef
+  341:5   warning  'ctx' is not defined                        no-undef
+  341:24  warning  'canvas' is not defined                     no-undef
+  341:38  warning  'canvas' is not defined                     no-undef
+  349:5   warning  'drawGrid' is not defined                   no-undef
+  349:14  warning  'ctx' is not defined                        no-undef
+  350:5   warning  'drawAxis' is not defined                   no-undef
+  367:9   warning  'x2' is assigned a value but never used     no-unused-vars
+  391:9   warning  'pos' is already defined                    no-redeclare
+  399:5   warning  'ctx' is not defined                        no-undef
+  400:5   warning  'ctx' is not defined                        no-undef
+  401:5   warning  'ctx' is not defined                        no-undef
+  402:9   warning  'p' is already defined                      no-redeclare
+  411:13  warning  'ctx' is not defined                        no-undef
+  413:13  warning  'ctx' is not defined                        no-undef
+  419:5   warning  'ctx' is not defined                        no-undef
+  422:9   warning  'Vp' is already defined                     no-redeclare
+  423:9   warning  'fo' is already defined                     no-redeclare
+  424:9   warning  'phase' is already defined                  no-redeclare
+  425:9   warning  'pos' is already defined                    no-redeclare
+  427:9   warning  'x' is already defined                      no-redeclare
+  427:26  warning  'y' is already defined                      no-redeclare
+  428:9   warning  'dt' is already defined                     no-redeclare
+  428:13  warning  'tstart' is already defined                 no-redeclare
+  428:21  warning  'tstop' is already defined                  no-redeclare
+  454:9   warning  'i' is already defined                      no-redeclare
+  454:12  warning  'x0' is already defined                     no-redeclare
+  454:16  warning  'y0' is already defined                     no-redeclare
+  454:20  warning  'xscale' is already defined                 no-redeclare
+  454:28  warning  'yscale' is already defined                 no-redeclare
+  455:9   warning  'xp' is already defined                     no-redeclare
+  455:13  warning  'yp' is already defined                     no-redeclare
+  456:9   warning  'pos' is already defined                    no-redeclare
+  464:5   warning  'ctx' is not defined                        no-undef
+  465:5   warning  'ctx' is not defined                        no-undef
+  466:5   warning  'ctx' is not defined                        no-undef
+  467:9   warning  'p' is already defined                      no-redeclare
+  475:13  warning  'ctx' is not defined                        no-undef
+  477:13  warning  'ctx' is not defined                        no-undef
+  481:5   warning  'ctx' is not defined                        no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/jquery.knob.min.js
+    2:41  warning  'define' is not defined                   no-undef
+    3:9   warning  'define' is not defined                   no-undef
+    5:11  warning  'jQuery' is not defined                   no-undef
+   94:17  warning  'G_vmlCanvasManager' is not defined       no-undef
+  181:44  warning  'e' is defined but never used             no-unused-vars
+  232:32  warning  'this.$c[0].width' is assigned to itself  no-self-assign
+  244:33  warning  'e' is defined but never used             no-unused-vars
+  246:30  warning  'e' is defined but never used             no-unused-vars
+  248:33  warning  'e' is defined but never used             no-unused-vars
+  248:36  warning  't' is defined but never used             no-unused-vars
+  348:40  warning  'e' is defined but never used             no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiff_axis_ver2.js
+    8:5   warning  'vmaxs' is assigned a value but never used           no-unused-vars
+   12:10  warning  'mainswt' is defined but never used                  no-unused-vars
+   52:10  warning  'amp1pdiv' is defined but never used                 no-unused-vars
+   58:9   warning  'drawsqr' is not defined                             no-undef
+   61:9   warning  'drawspk' is not defined                             no-undef
+   65:9   warning  'bthdrc' is not defined                              no-undef
+   68:8   warning  'grndrc' is not defined                              no-undef
+   72:10  warning  'timepdiv' is defined but never used                 no-unused-vars
+   77:9   warning  'drawsqr' is not defined                             no-undef
+   80:8   warning  'drawspk' is not defined                             no-undef
+   83:9   warning  'bthdrc' is not defined                              no-undef
+   86:8   warning  'grndrc' is not defined                              no-undef
+   98:4   warning  'voltperdiv1' is not defined                         no-undef
+   99:4   warning  'vmaxs1' is not defined                              no-undef
+   99:24  warning  'voltperdiv1' is not defined                         no-undef
+  100:3   warning  'voltperdiv2' is not defined                         no-undef
+  101:3   warning  'vmaxs2' is not defined                              no-undef
+  101:23  warning  'voltperdiv2' is not defined                         no-undef
+  110:48  warning  'vmaxs1' is not defined                              no-undef
+  113:47  warning  'vmaxs2' is not defined                              no-undef
+  116:48  warning  'vmaxs1' is not defined                              no-undef
+  117:48  warning  'vmaxs2' is not defined                              no-undef
+  148:5   warning  'axismargin' is assigned a value but never used      no-unused-vars
+  155:9   warning  'numofvrtcltick' is assigned a value but never used  no-unused-vars
+  160:9   warning  'axislinewidth' is assigned a value but never used   no-unused-vars
+  161:9   warning  'axiscolor' is assigned a value but never used       no-unused-vars
+  230:10  warning  'chnlo' is defined but never used                    no-unused-vars
+  231:1   warning  'drawsqr' is not defined                             no-undef
+  234:10  warning  'chnlt' is defined but never used                    no-unused-vars
+  235:1   warning  'drawspk' is not defined                             no-undef
+  238:10  warning  'bthd' is defined but never used                     no-unused-vars
+  239:5   warning  'bthdrc' is not defined                              no-undef
+  242:12  warning  'grnds' is defined but never used                    no-unused-vars
+  243:5   warning  'grndrc' is not defined                              no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiff_knob_ver2.js
+    6:5   warning  'vmaxs' is defined but never used  no-unused-vars
+    7:5   warning  'tmaxs' is defined but never used  no-unused-vars
+    8:1   warning  '$' is not defined                 no-undef
+   11:5   warning  '$' is not defined                 no-undef
+   23:29  warning  'v' is defined but never used      no-unused-vars
+   24:17  warning  'flag' is not defined              no-undef
+   25:17  warning  'drawsqr' is not defined           no-undef
+   27:17  warning  'flag' is not defined              no-undef
+   28:17  warning  'drawspk' is not defined           no-undef
+   30:10  warning  'flag' is not defined              no-undef
+   31:9   warning  'bthdrc' is not defined            no-undef
+   33:8   warning  'flag' is not defined              no-undef
+   34:8   warning  'grndrc' is not defined            no-undef
+   39:5   warning  '$' is not defined                 no-undef
+   51:29  warning  'v' is defined but never used      no-unused-vars
+   52:17  warning  'flag' is not defined              no-undef
+   53:17  warning  'drawsqr' is not defined           no-undef
+   55:16  warning  'flag' is not defined              no-undef
+   56:9   warning  'bthdrc' is not defined            no-undef
+   58:8   warning  'flag' is not defined              no-undef
+   59:8   warning  'grndrc' is not defined            no-undef
+   64:5   warning  '$' is not defined                 no-undef
+   76:29  warning  'v' is defined but never used      no-unused-vars
+   78:17  warning  'flag' is not defined              no-undef
+   79:17  warning  'drawspk' is not defined           no-undef
+   82:15  warning  'flag' is not defined              no-undef
+   83:9   warning  'bthdrc' is not defined            no-undef
+   85:8   warning  'flag' is not defined              no-undef
+   86:8   warning  'grndrc' is not defined            no-undef
+   92:5   warning  '$' is not defined                 no-undef
+  104:29  warning  'v' is defined but never used      no-unused-vars
+  105:17  warning  'flag' is not defined              no-undef
+  106:17  warning  'drawsqr' is not defined           no-undef
+  108:17  warning  'flag' is not defined              no-undef
+  109:18  warning  'drawspk' is not defined           no-undef
+  112:14  warning  'flag' is not defined              no-undef
+  113:9   warning  'bthdrc' is not defined            no-undef
+  115:8   warning  'flag' is not defined              no-undef
+  116:8   warning  'grndrc' is not defined            no-undef
+  122:5   warning  '$' is not defined                 no-undef
+  134:29  warning  'v' is defined but never used      no-unused-vars
+  135:17  warning  'flag' is not defined              no-undef
+  136:17  warning  'drawsqr' is not defined           no-undef
+  138:17  warning  'flag' is not defined              no-undef
+  139:19  warning  'drawspk' is not defined           no-undef
+  141:15  warning  'flag' is not defined              no-undef
+  142:9   warning  'bthdrc' is not defined            no-undef
+  144:8   warning  'flag' is not defined              no-undef
+  145:8   warning  'grndrc' is not defined            no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiffboth_ver2.js
+   13:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   16:10  warning  'posiy1chnge' is defined but never used  no-unused-vars
+   19:9   warning  'drawsqr' is not defined                 no-undef
+   25:9   warning  'grndrc' is not defined                  no-undef
+   29:10  warning  'posiy2chnge' is defined but never used  no-unused-vars
+   33:10  warning  'drawspk' is not defined                 no-undef
+   39:8   warning  'grndrc' is not defined                  no-undef
+   44:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   47:9   warning  'drawsqr' is not defined                 no-undef
+   50:12  warning  'drawspk' is not defined                 no-undef
+   56:9   warning  'grndrc' is not defined                  no-undef
+   60:10  warning  'ampfng' is defined but never used       no-unused-vars
+   63:9   warning  'drawsqr' is not defined                 no-undef
+   66:11  warning  'drawspk' is not defined                 no-undef
+   73:9   warning  'grndrc' is not defined                  no-undef
+   77:10  warning  'freqfng' is defined but never used      no-unused-vars
+   80:9   warning  'drawsqr' is not defined                 no-undef
+   83:11  warning  'drawspk' is not defined                 no-undef
+   90:9   warning  'grndrc' is not defined                  no-undef
+   96:5   warning  'canvas' is not defined                  no-undef
+   97:17  warning  'canvas' is not defined                  no-undef
+   97:28  warning  'canvas' is not defined                  no-undef
+   99:5   warning  'ctx' is not defined                     no-undef
+   99:11  warning  'canvas' is not defined                  no-undef
+  101:5   warning  'ctx' is not defined                     no-undef
+  102:5   warning  'ctx' is not defined                     no-undef
+  102:24  warning  'canvas' is not defined                  no-undef
+  102:38  warning  'canvas' is not defined                  no-undef
+  103:5   warning  'drawGrid' is not defined                no-undef
+  103:14  warning  'ctx' is not defined                     no-undef
+  104:5   warning  'drawAxis' is not defined                no-undef
+  117:8   warning  'c' is assigned a value but never used   no-unused-vars
+  118:5   warning  'r' is assigned a value but never used   no-unused-vars
+  136:9   warning  'i' is already defined                   no-redeclare
+  143:5   warning  'ctx' is not defined                     no-undef
+  144:5   warning  'ctx' is not defined                     no-undef
+  145:5   warning  'ctx' is not defined                     no-undef
+  155:13  warning  'ctx' is not defined                     no-undef
+  157:13  warning  'ctx' is not defined                     no-undef
+  160:5   warning  'ctx' is not defined                     no-undef
+  191:9   warning  'j' is already defined                   no-redeclare
+  191:12  warning  'x0' is already defined                  no-redeclare
+  191:16  warning  'y0' is already defined                  no-redeclare
+  191:20  warning  'xscale' is already defined              no-redeclare
+  191:28  warning  'yscale' is already defined              no-redeclare
+  199:5   warning  'ctx' is not defined                     no-undef
+  200:5   warning  'ctx' is not defined                     no-undef
+  201:6   warning  'ctx' is not defined                     no-undef
+  210:13  warning  'ctx' is not defined                     no-undef
+  212:13  warning  'ctx' is not defined                     no-undef
+  222:13  warning  'ctx' is not defined                     no-undef
+  224:13  warning  'ctx' is not defined                     no-undef
+  234:13  warning  'ctx' is not defined                     no-undef
+  236:13  warning  'ctx' is not defined                     no-undef
+  246:13  warning  'ctx' is not defined                     no-undef
+  248:13  warning  'ctx' is not defined                     no-undef
+  252:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiffgrnd_ver2.js
+   13:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   16:10  warning  'posiy1chnge' is defined but never used  no-unused-vars
+   19:9   warning  'drawsqr' is not defined                 no-undef
+   22:7   warning  'bthdrc' is not defined                  no-undef
+   29:10  warning  'posiy2chnge' is defined but never used  no-unused-vars
+   33:10  warning  'drawspk' is not defined                 no-undef
+   36:9   warning  'bthdrc' is not defined                  no-undef
+   44:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   47:9   warning  'drawsqr' is not defined                 no-undef
+   50:12  warning  'drawspk' is not defined                 no-undef
+   53:8   warning  'bthdrc' is not defined                  no-undef
+   60:10  warning  'ampfng' is defined but never used       no-unused-vars
+   63:9   warning  'drawsqr' is not defined                 no-undef
+   66:13  warning  'drawspk' is not defined                 no-undef
+   70:9   warning  'bthdrc' is not defined                  no-undef
+   77:10  warning  'freqfng' is defined but never used      no-unused-vars
+   80:9   warning  'drawsqr' is not defined                 no-undef
+   83:13  warning  'drawspk' is not defined                 no-undef
+   87:9   warning  'bthdhlfrc' is not defined               no-undef
+   96:5   warning  'canvas' is not defined                  no-undef
+   97:17  warning  'canvas' is not defined                  no-undef
+   97:28  warning  'canvas' is not defined                  no-undef
+   99:5   warning  'ctx' is not defined                     no-undef
+   99:11  warning  'canvas' is not defined                  no-undef
+  101:5   warning  'ctx' is not defined                     no-undef
+  102:5   warning  'ctx' is not defined                     no-undef
+  102:24  warning  'canvas' is not defined                  no-undef
+  102:38  warning  'canvas' is not defined                  no-undef
+  103:5   warning  'drawGrid' is not defined                no-undef
+  103:14  warning  'ctx' is not defined                     no-undef
+  104:5   warning  'drawAxis' is not defined                no-undef
+  116:8   warning  'c' is assigned a value but never used   no-unused-vars
+  117:5   warning  'r' is assigned a value but never used   no-unused-vars
+  135:9   warning  'i' is already defined                   no-redeclare
+  142:5   warning  'ctx' is not defined                     no-undef
+  143:5   warning  'ctx' is not defined                     no-undef
+  144:5   warning  'ctx' is not defined                     no-undef
+  154:13  warning  'ctx' is not defined                     no-undef
+  156:13  warning  'ctx' is not defined                     no-undef
+  159:5   warning  'ctx' is not defined                     no-undef
+  190:9   warning  'j' is already defined                   no-redeclare
+  190:12  warning  'x0' is already defined                  no-redeclare
+  190:16  warning  'y0' is already defined                  no-redeclare
+  190:20  warning  'xscale' is already defined              no-redeclare
+  190:28  warning  'yscale' is already defined              no-redeclare
+  198:5   warning  'ctx' is not defined                     no-undef
+  199:5   warning  'ctx' is not defined                     no-undef
+  200:5   warning  'ctx' is not defined                     no-undef
+  209:13  warning  'ctx' is not defined                     no-undef
+  211:13  warning  'ctx' is not defined                     no-undef
+  221:13  warning  'ctx' is not defined                     no-undef
+  223:13  warning  'ctx' is not defined                     no-undef
+  233:13  warning  'ctx' is not defined                     no-undef
+  235:13  warning  'ctx' is not defined                     no-undef
+  245:13  warning  'ctx' is not defined                     no-undef
+  247:13  warning  'ctx' is not defined                     no-undef
+  251:5   warning  'ctx' is not defined                     no-undef
+  252:1   warning  Unnecessary semicolon                    no-extra-semi
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiffspk_ver2.js
+    9:5   warning  'phsl' is assigned a value but never used    no-unused-vars
+   10:5   warning  'frqfng' is assigned a value but never used  no-unused-vars
+   12:5   warning  'vmaxs' is defined but never used            no-unused-vars
+   18:10  warning  'posiy2chnge' is defined but never used      no-unused-vars
+   28:10  warning  'posix2chnge' is defined but never used      no-unused-vars
+   31:9   warning  'drawsqr' is not defined                     no-undef
+   40:10  warning  'ampfng' is defined but never used           no-unused-vars
+   43:9   warning  'drawsqr' is not defined                     no-undef
+   50:9   warning  'bthdrc' is not defined                      no-undef
+   53:8   warning  'grndrc' is not defined                      no-undef
+   57:10  warning  'freqfng' is defined but never used          no-unused-vars
+   60:9   warning  'drawsqr' is not defined                     no-undef
+   66:9   warning  'bthdrc' is not defined                      no-undef
+   69:8   warning  'grndrc' is not defined                      no-undef
+   76:5   warning  'canvas' is not defined                      no-undef
+   77:17  warning  'canvas' is not defined                      no-undef
+   77:28  warning  'canvas' is not defined                      no-undef
+   79:5   warning  'ctx' is not defined                         no-undef
+   79:11  warning  'canvas' is not defined                      no-undef
+   81:5   warning  'ctx' is not defined                         no-undef
+   82:5   warning  'ctx' is not defined                         no-undef
+   82:24  warning  'canvas' is not defined                      no-undef
+   82:38  warning  'canvas' is not defined                      no-undef
+   87:5   warning  'drawGrid' is not defined                    no-undef
+   87:14  warning  'ctx' is not defined                         no-undef
+   88:5   warning  'drawAxis' is not defined                    no-undef
+  101:5   warning  'c' is assigned a value but never used       no-unused-vars
+  102:5   warning  'r' is assigned a value but never used       no-unused-vars
+  138:9   warning  'i' is already defined                       no-redeclare
+  138:40  warning  'yp' is defined but never used               no-unused-vars
+  145:5   warning  'ctx' is not defined                         no-undef
+  146:5   warning  'ctx' is not defined                         no-undef
+  147:4   warning  'ctx' is not defined                         no-undef
+  152:9   warning  'yp1' is not defined                         no-undef
+  156:13  warning  'ctx' is not defined                         no-undef
+  156:28  warning  'yp1' is not defined                         no-undef
+  158:13  warning  'ctx' is not defined                         no-undef
+  158:28  warning  'yp1' is not defined                         no-undef
+  164:9   warning  'yp2' is not defined                         no-undef
+  168:13  warning  'ctx' is not defined                         no-undef
+  168:28  warning  'yp2' is not defined                         no-undef
+  170:13  warning  'ctx' is not defined                         no-undef
+  170:28  warning  'yp2' is not defined                         no-undef
+  176:9   warning  'yp3' is not defined                         no-undef
+  180:13  warning  'ctx' is not defined                         no-undef
+  180:28  warning  'yp3' is not defined                         no-undef
+  182:13  warning  'ctx' is not defined                         no-undef
+  182:28  warning  'yp3' is not defined                         no-undef
+  188:9   warning  'yp4' is not defined                         no-undef
+  192:13  warning  'ctx' is not defined                         no-undef
+  192:28  warning  'yp4' is not defined                         no-undef
+  194:13  warning  'ctx' is not defined                         no-undef
+  194:28  warning  'yp4' is not defined                         no-undef
+  199:5   warning  'ctx' is not defined                         no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiffsqrwv_ver2.js
+   12:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   17:10  warning  'posiy1chnge' is defined but never used  no-unused-vars
+   25:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   31:12  warning  'drawtri' is not defined                 no-undef
+   36:10  warning  'ampfng' is defined but never used       no-unused-vars
+   42:11  warning  'drawtri' is not defined                 no-undef
+   45:9   warning  'bthdrc' is not defined                  no-undef
+   48:8   warning  'grndrc' is not defined                  no-undef
+   53:10  warning  'freqfng' is defined but never used      no-unused-vars
+   59:11  warning  'drawtri' is not defined                 no-undef
+   63:9   warning  'bthdrc' is not defined                  no-undef
+   66:8   warning  'grndrc' is not defined                  no-undef
+   72:5   warning  'canvas' is not defined                  no-undef
+   73:17  warning  'canvas' is not defined                  no-undef
+   73:28  warning  'canvas' is not defined                  no-undef
+   75:5   warning  'ctx' is not defined                     no-undef
+   75:11  warning  'canvas' is not defined                  no-undef
+   77:5   warning  'ctx' is not defined                     no-undef
+   78:5   warning  'ctx' is not defined                     no-undef
+   78:24  warning  'canvas' is not defined                  no-undef
+   78:38  warning  'canvas' is not defined                  no-undef
+   80:5   warning  'drawGrid' is not defined                no-undef
+   80:14  warning  'ctx' is not defined                     no-undef
+   81:5   warning  'drawAxis' is not defined                no-undef
+  110:9   warning  'i' is already defined                   no-redeclare
+  117:5   warning  'ctx' is not defined                     no-undef
+  118:5   warning  'ctx' is not defined                     no-undef
+  119:5   warning  'ctx' is not defined                     no-undef
+  129:13  warning  'ctx' is not defined                     no-undef
+  131:13  warning  'ctx' is not defined                     no-undef
+  134:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffr_ver2/rcdiffvo_ver2.js
+   7:10  warning  'capachange' is defined but never used    no-unused-vars
+  11:10  warning  'reschange' is defined but never used     no-unused-vars
+  15:11  warning  'timeconstant' is defined but never used  no-unused-vars
+  24:1   warning  '$' is not defined                        no-undef
+  25:5   warning  '$' is not defined                        no-undef
+  26:9   warning  '$' is not defined                        no-undef
+  27:24  warning  '$' is not defined                        no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/diffrntiatr.js
+    2:5   warning  'n' is assigned a value but never used              no-unused-vars
+    8:10  warning  'mainswt' is defined but never used                 no-unused-vars
+   47:10  warning  'psychnge' is defined but never used                no-unused-vars
+   53:10  warning  'sliderChange' is defined but never used            no-unused-vars
+   60:10  warning  'frqchnge' is defined but never used                no-unused-vars
+   66:10  warning  'phschnge' is defined but never used                no-unused-vars
+   74:10  warning  'clearCanvas' is defined but never used             no-unused-vars
+  124:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  135:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  136:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  197:10  warning  'printf' is defined but never used                  no-unused-vars
+  202:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  207:13  warning  'drawsq' is not defined                             no-undef
+  211:13  warning  'drawtr' is not defined                             no-undef
+  216:13  warning  'drawsncrv' is not defined                          no-undef
+  223:13  warning  'drawsq' is not defined                             no-undef
+  227:13  warning  'drawtr' is not defined                             no-undef
+  232:13  warning  'drawsncrv' is not defined                          no-undef
+  239:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  244:13  warning  'drawspike' is not defined                          no-undef
+  248:13  warning  'drawsqr' is not defined                            no-undef
+  252:13  warning  'drawcscrv' is not defined                          no-undef
+  258:13  warning  'drawspike' is not defined                          no-undef
+  262:13  warning  'drawsqr' is not defined                            no-undef
+  266:13  warning  'drawcscrv' is not defined                          no-undef
+  273:13  warning  'drawspike' is not defined                          no-undef
+  277:13  warning  'drawsqr' is not defined                            no-undef
+  281:13  warning  'drawcscrv' is not defined                          no-undef
+  287:10  warning  'bthd' is defined but never used                    no-unused-vars
+  291:13  warning  'drawsqrspk' is not defined                         no-undef
+  294:13  warning  'drawsqtr' is not defined                           no-undef
+  297:13  warning  'drawsncsbt' is not defined                         no-undef
+  304:13  warning  'drawsqrspk' is not defined                         no-undef
+  307:13  warning  'drawsqtr' is not defined                           no-undef
+  310:13  warning  'drawsncsbt' is not defined                         no-undef
+  317:13  warning  'drawsqrspk' is not defined                         no-undef
+  320:13  warning  'drawsqtr' is not defined                           no-undef
+  323:13  warning  'drawsncsbt' is not defined                         no-undef
+  328:10  warning  'grounds' is defined but never used                 no-unused-vars
+  332:13  warning  'drawsqrspkg' is not defined                        no-undef
+  335:13  warning  'drawtrgr' is not defined                           no-undef
+  338:13  warning  'drawsncsgr' is not defined                         no-undef
+  341:13  warning  'drawsqrspkg' is not defined                        no-undef
+  345:13  warning  'drawtrgr' is not defined                           no-undef
+  349:13  warning  'drawsncsgr' is not defined                         no-undef
+  355:13  warning  'drawsqrspkg' is not defined                        no-undef
+  358:13  warning  'drawtrgr' is not defined                           no-undef
+  361:13  warning  'drawsncsgr' is not defined                         no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/graph.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/graph_use.ob.js
+  1:103  warning  'drawgraph' is defined but never used  no-unused-vars
+  1:163  warning  'CanvasJS' is not defined              no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/jquery.knob.min.js
+    2:41  warning  'define' is not defined                   no-undef
+    3:9   warning  'define' is not defined                   no-undef
+    5:11  warning  'jQuery' is not defined                   no-undef
+   94:17  warning  'G_vmlCanvasManager' is not defined       no-undef
+  181:44  warning  'e' is defined but never used             no-unused-vars
+  232:32  warning  'this.$c[0].width' is assigned to itself  no-self-assign
+  244:33  warning  'e' is defined but never used             no-unused-vars
+  246:30  warning  'e' is defined but never used             no-unused-vars
+  248:33  warning  'e' is defined but never used             no-unused-vars
+  248:36  warning  't' is defined but never used             no-unused-vars
+  348:40  warning  'e' is defined but never used             no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintg_axis_ver2.js
+    8:5   warning  'vmaxs' is assigned a value but never used           no-unused-vars
+   13:10  warning  'mainswt' is defined but never used                  no-unused-vars
+   53:10  warning  'amp1pdiv' is defined but never used                 no-unused-vars
+   58:9   warning  'drawsqr' is not defined                             no-undef
+   61:9   warning  'drawtri' is not defined                             no-undef
+   65:9   warning  'bthdrc' is not defined                              no-undef
+   68:8   warning  'grndrc' is not defined                              no-undef
+   72:10  warning  'timepdiv' is defined but never used                 no-unused-vars
+   76:9   warning  'drawsqr' is not defined                             no-undef
+   79:9   warning  'drawtri' is not defined                             no-undef
+   82:9   warning  'bthdrc' is not defined                              no-undef
+   85:8   warning  'grndrc' is not defined                              no-undef
+   97:4   warning  'voltperdiv1' is not defined                         no-undef
+   98:4   warning  'vmaxs1' is not defined                              no-undef
+   98:24  warning  'voltperdiv1' is not defined                         no-undef
+   99:3   warning  'voltperdiv2' is not defined                         no-undef
+  100:3   warning  'vmaxs2' is not defined                              no-undef
+  100:23  warning  'voltperdiv2' is not defined                         no-undef
+  109:48  warning  'vmaxs1' is not defined                              no-undef
+  112:47  warning  'vmaxs2' is not defined                              no-undef
+  115:48  warning  'vmaxs1' is not defined                              no-undef
+  116:48  warning  'vmaxs2' is not defined                              no-undef
+  147:5   warning  'axismargin' is assigned a value but never used      no-unused-vars
+  154:9   warning  'numofvrtcltick' is assigned a value but never used  no-unused-vars
+  159:9   warning  'axislinewidth' is assigned a value but never used   no-unused-vars
+  160:9   warning  'axiscolor' is assigned a value but never used       no-unused-vars
+  229:10  warning  'chnlo' is defined but never used                    no-unused-vars
+  230:1   warning  'drawsqr' is not defined                             no-undef
+  233:10  warning  'chnlt' is defined but never used                    no-unused-vars
+  234:2   warning  'drawtri' is not defined                             no-undef
+  237:10  warning  'bthd' is defined but never used                     no-unused-vars
+  238:5   warning  'bthdrc' is not defined                              no-undef
+  241:12  warning  'grnds' is defined but never used                    no-unused-vars
+  242:5   warning  'grndrc' is not defined                              no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintg_knob_ver2.js
+    6:5   warning  'vmaxs' is defined but never used  no-unused-vars
+    7:5   warning  'tmaxs' is defined but never used  no-unused-vars
+    8:1   warning  '$' is not defined                 no-undef
+   11:5   warning  '$' is not defined                 no-undef
+   23:29  warning  'v' is defined but never used      no-unused-vars
+   24:17  warning  'flag' is not defined              no-undef
+   25:17  warning  'drawsqr' is not defined           no-undef
+   27:17  warning  'flag' is not defined              no-undef
+   28:18  warning  'drawtri' is not defined           no-undef
+   30:10  warning  'flag' is not defined              no-undef
+   31:9   warning  'bthdrc' is not defined            no-undef
+   33:8   warning  'flag' is not defined              no-undef
+   34:8   warning  'grndrc' is not defined            no-undef
+   39:5   warning  '$' is not defined                 no-undef
+   51:29  warning  'v' is defined but never used      no-unused-vars
+   52:17  warning  'flag' is not defined              no-undef
+   53:17  warning  'drawsqr' is not defined           no-undef
+   55:16  warning  'flag' is not defined              no-undef
+   56:9   warning  'bthdrc' is not defined            no-undef
+   58:8   warning  'flag' is not defined              no-undef
+   59:8   warning  'grndrc' is not defined            no-undef
+   64:5   warning  '$' is not defined                 no-undef
+   76:29  warning  'v' is defined but never used      no-unused-vars
+   78:17  warning  'flag' is not defined              no-undef
+   79:18  warning  'drawtri' is not defined           no-undef
+   82:15  warning  'flag' is not defined              no-undef
+   83:9   warning  'bthdrc' is not defined            no-undef
+   85:8   warning  'flag' is not defined              no-undef
+   86:8   warning  'grndrc' is not defined            no-undef
+   92:5   warning  '$' is not defined                 no-undef
+  104:29  warning  'v' is defined but never used      no-unused-vars
+  105:17  warning  'flag' is not defined              no-undef
+  106:17  warning  'drawsqr' is not defined           no-undef
+  108:17  warning  'flag' is not defined              no-undef
+  109:19  warning  'drawtri' is not defined           no-undef
+  112:14  warning  'flag' is not defined              no-undef
+  113:9   warning  'bthdrc' is not defined            no-undef
+  115:8   warning  'flag' is not defined              no-undef
+  116:8   warning  'grndrc' is not defined            no-undef
+  122:5   warning  '$' is not defined                 no-undef
+  134:29  warning  'v' is defined but never used      no-unused-vars
+  135:17  warning  'flag' is not defined              no-undef
+  136:17  warning  'drawsqr' is not defined           no-undef
+  138:17  warning  'flag' is not defined              no-undef
+  139:19  warning  'drawtri' is not defined           no-undef
+  141:15  warning  'flag' is not defined              no-undef
+  142:9   warning  'bthdrc' is not defined            no-undef
+  144:8   warning  'flag' is not defined              no-undef
+  145:8   warning  'grndrc' is not defined            no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintgboth_ver2.js
+   13:5   warning  'vmaxs' is defined but never used         no-unused-vars
+   16:10  warning  'posiy1chnge' is defined but never used   no-unused-vars
+   19:9   warning  'drawsqr' is not defined                  no-undef
+   25:9   warning  'grndrc' is not defined                   no-undef
+   29:10  warning  'posiy2chnge' is defined but never used   no-unused-vars
+   33:10  warning  'drawtri' is not defined                  no-undef
+   39:8   warning  'grndrc' is not defined                   no-undef
+   44:10  warning  'posix2chnge' is defined but never used   no-unused-vars
+   47:9   warning  'drawsqr' is not defined                  no-undef
+   50:12  warning  'drawtri' is not defined                  no-undef
+   56:9   warning  'grndrc' is not defined                   no-undef
+   60:10  warning  'ampfng' is defined but never used        no-unused-vars
+   63:9   warning  'drawsqr' is not defined                  no-undef
+   66:12  warning  'drawtri' is not defined                  no-undef
+   73:9   warning  'grndrc' is not defined                   no-undef
+   77:10  warning  'freqfng' is defined but never used       no-unused-vars
+   80:9   warning  'drawsqr' is not defined                  no-undef
+   83:12  warning  'drawtri' is not defined                  no-undef
+   90:9   warning  'grndrc' is not defined                   no-undef
+   96:5   warning  'canvas' is not defined                   no-undef
+   97:17  warning  'canvas' is not defined                   no-undef
+   97:28  warning  'canvas' is not defined                   no-undef
+   99:5   warning  'ctx' is not defined                      no-undef
+   99:11  warning  'canvas' is not defined                   no-undef
+  101:5   warning  'ctx' is not defined                      no-undef
+  102:5   warning  'ctx' is not defined                      no-undef
+  102:24  warning  'canvas' is not defined                   no-undef
+  102:38  warning  'canvas' is not defined                   no-undef
+  103:5   warning  'drawGrid' is not defined                 no-undef
+  103:14  warning  'ctx' is not defined                      no-undef
+  104:5   warning  'drawAxis' is not defined                 no-undef
+  136:9   warning  'i' is already defined                    no-redeclare
+  143:5   warning  'ctx' is not defined                      no-undef
+  144:5   warning  'ctx' is not defined                      no-undef
+  145:6   warning  'ctx' is not defined                      no-undef
+  155:13  warning  'ctx' is not defined                      no-undef
+  157:13  warning  'ctx' is not defined                      no-undef
+  160:5   warning  'ctx' is not defined                      no-undef
+  169:10  warning  'r' is already defined                    no-redeclare
+  170:6   warning  'c' is already defined                    no-redeclare
+  176:5   warning  'dt1' is assigned a value but never used  no-unused-vars
+  182:13  warning  'p' is already defined                    no-redeclare
+  189:9   warning  'j' is already defined                    no-redeclare
+  189:12  warning  'x0' is already defined                   no-redeclare
+  189:16  warning  'y0' is already defined                   no-redeclare
+  189:20  warning  'xscale' is already defined               no-redeclare
+  189:28  warning  'yscale' is already defined               no-redeclare
+  196:5   warning  'ctx' is not defined                      no-undef
+  197:5   warning  'ctx' is not defined                      no-undef
+  198:4   warning  'ctx' is not defined                      no-undef
+  208:13  warning  'ctx' is not defined                      no-undef
+  210:13  warning  'ctx' is not defined                      no-undef
+  213:5   warning  'ctx' is not defined                      no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintggrnd_ver2.js
+   13:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   16:10  warning  'posiy1chnge' is defined but never used  no-unused-vars
+   19:9   warning  'drawsqr' is not defined                 no-undef
+   22:7   warning  'bthdrc' is not defined                  no-undef
+   29:10  warning  'posiy2chnge' is defined but never used  no-unused-vars
+   33:10  warning  'drawtri' is not defined                 no-undef
+   36:9   warning  'bthdrc' is not defined                  no-undef
+   44:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   47:9   warning  'drawsqr' is not defined                 no-undef
+   50:12  warning  'drawtri' is not defined                 no-undef
+   53:8   warning  'bthdrc' is not defined                  no-undef
+   60:10  warning  'ampfng' is defined but never used       no-unused-vars
+   63:9   warning  'drawsqr' is not defined                 no-undef
+   66:13  warning  'drawtri' is not defined                 no-undef
+   70:9   warning  'bthdrc' is not defined                  no-undef
+   77:10  warning  'freqfng' is defined but never used      no-unused-vars
+   80:9   warning  'drawsqr' is not defined                 no-undef
+   83:13  warning  'drawtri' is not defined                 no-undef
+   87:9   warning  'bthdhlfrc' is not defined               no-undef
+   96:5   warning  'canvas' is not defined                  no-undef
+   97:17  warning  'canvas' is not defined                  no-undef
+   97:28  warning  'canvas' is not defined                  no-undef
+   99:5   warning  'ctx' is not defined                     no-undef
+   99:11  warning  'canvas' is not defined                  no-undef
+  101:5   warning  'ctx' is not defined                     no-undef
+  102:5   warning  'ctx' is not defined                     no-undef
+  102:24  warning  'canvas' is not defined                  no-undef
+  102:38  warning  'canvas' is not defined                  no-undef
+  103:5   warning  'drawGrid' is not defined                no-undef
+  103:14  warning  'ctx' is not defined                     no-undef
+  104:5   warning  'drawAxis' is not defined                no-undef
+  135:9   warning  'i' is already defined                   no-redeclare
+  142:5   warning  'ctx' is not defined                     no-undef
+  143:5   warning  'ctx' is not defined                     no-undef
+  144:5   warning  'ctx' is not defined                     no-undef
+  154:13  warning  'ctx' is not defined                     no-undef
+  156:13  warning  'ctx' is not defined                     no-undef
+  159:5   warning  'ctx' is not defined                     no-undef
+  165:9   warning  'x2' is assigned a value but never used  no-unused-vars
+  176:13  warning  'p' is already defined                   no-redeclare
+  182:13  warning  'r' is already defined                   no-redeclare
+  189:9   warning  'j' is already defined                   no-redeclare
+  189:12  warning  'x0' is already defined                  no-redeclare
+  189:16  warning  'y0' is already defined                  no-redeclare
+  189:20  warning  'xscale' is already defined              no-redeclare
+  189:28  warning  'yscale' is already defined              no-redeclare
+  196:5   warning  'ctx' is not defined                     no-undef
+  197:5   warning  'ctx' is not defined                     no-undef
+  198:4   warning  'ctx' is not defined                     no-undef
+  208:13  warning  'ctx' is not defined                     no-undef
+  210:13  warning  'ctx' is not defined                     no-undef
+  213:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintgsqrwv_ver2.js
+   12:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   17:10  warning  'posiy1chnge' is defined but never used  no-unused-vars
+   25:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   31:12  warning  'drawtri' is not defined                 no-undef
+   36:10  warning  'ampfng' is defined but never used       no-unused-vars
+   42:11  warning  'drawtri' is not defined                 no-undef
+   45:9   warning  'bthdrc' is not defined                  no-undef
+   48:8   warning  'grndrc' is not defined                  no-undef
+   53:10  warning  'freqfng' is defined but never used      no-unused-vars
+   59:11  warning  'drawtri' is not defined                 no-undef
+   63:9   warning  'bthdrc' is not defined                  no-undef
+   66:8   warning  'grndrc' is not defined                  no-undef
+   72:5   warning  'canvas' is not defined                  no-undef
+   73:17  warning  'canvas' is not defined                  no-undef
+   73:28  warning  'canvas' is not defined                  no-undef
+   75:5   warning  'ctx' is not defined                     no-undef
+   75:11  warning  'canvas' is not defined                  no-undef
+   77:5   warning  'ctx' is not defined                     no-undef
+   78:5   warning  'ctx' is not defined                     no-undef
+   78:24  warning  'canvas' is not defined                  no-undef
+   78:38  warning  'canvas' is not defined                  no-undef
+   80:5   warning  'drawGrid' is not defined                no-undef
+   80:14  warning  'ctx' is not defined                     no-undef
+   81:5   warning  'drawAxis' is not defined                no-undef
+  110:9   warning  'i' is already defined                   no-redeclare
+  117:5   warning  'ctx' is not defined                     no-undef
+  118:5   warning  'ctx' is not defined                     no-undef
+  119:5   warning  'ctx' is not defined                     no-undef
+  129:13  warning  'ctx' is not defined                     no-undef
+  131:13  warning  'ctx' is not defined                     no-undef
+  134:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintgtriwv_ver2.js
+   12:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   18:10  warning  'posiy2chnge' is defined but never used  no-unused-vars
+   28:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   32:9   warning  'drawsqr' is not defined                 no-undef
+   41:10  warning  'ampfng' is defined but never used       no-unused-vars
+   44:9   warning  'drawsqr' is not defined                 no-undef
+   51:9   warning  'bthdrc' is not defined                  no-undef
+   54:8   warning  'grndrc' is not defined                  no-undef
+   58:10  warning  'freqfng' is defined but never used      no-unused-vars
+   61:9   warning  'drawsqr' is not defined                 no-undef
+   67:9   warning  'bthdrc' is not defined                  no-undef
+   70:8   warning  'grndrc' is not defined                  no-undef
+   77:5   warning  'canvas' is not defined                  no-undef
+   78:17  warning  'canvas' is not defined                  no-undef
+   78:28  warning  'canvas' is not defined                  no-undef
+   80:5   warning  'ctx' is not defined                     no-undef
+   80:11  warning  'canvas' is not defined                  no-undef
+   82:5   warning  'ctx' is not defined                     no-undef
+   83:5   warning  'ctx' is not defined                     no-undef
+   83:24  warning  'canvas' is not defined                  no-undef
+   83:38  warning  'canvas' is not defined                  no-undef
+   90:5   warning  'drawGrid' is not defined                no-undef
+   90:14  warning  'ctx' is not defined                     no-undef
+   91:5   warning  'drawAxis' is not defined                no-undef
+  107:7   warning  'r' is already defined                   no-redeclare
+  108:7   warning  'c' is already defined                   no-redeclare
+  114:9   warning  'x2' is assigned a value but never used  no-unused-vars
+  114:45  warning  'y2' is assigned a value but never used  no-unused-vars
+  133:9   warning  'i' is already defined                   no-redeclare
+  140:5   warning  'ctx' is not defined                     no-undef
+  141:5   warning  'ctx' is not defined                     no-undef
+  142:4   warning  'ctx' is not defined                     no-undef
+  143:9   warning  'p' is already defined                   no-redeclare
+  152:13  warning  'ctx' is not defined                     no-undef
+  154:13  warning  'ctx' is not defined                     no-undef
+  157:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intg_ver2/rcintgvo_ver2.js
+   7:10  warning  'capachange' is defined but never used    no-unused-vars
+  11:10  warning  'reschange' is defined but never used     no-unused-vars
+  12:4   warning  'res' is not defined                      no-undef
+  13:44  warning  'res' is not defined                      no-undef
+  15:11  warning  'timeconstant' is defined but never used  no-unused-vars
+  19:24  warning  'res' is not defined                      no-undef
+  24:1   warning  '$' is not defined                        no-undef
+  25:5   warning  '$' is not defined                        no-undef
+  26:9   warning  '$' is not defined                        no-undef
+  27:24  warning  '$' is not defined                        no-undef
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intgrtrjs - Copy.js
+   31:5   warning  'n' is assigned a value but never used              no-unused-vars
+   37:10  warning  'rechnge' is defined but never used                 no-unused-vars
+   41:10  warning  'vltchng' is defined but never used                 no-unused-vars
+   45:10  warning  'frqchng' is defined but never used                 no-unused-vars
+   49:10  warning  'capchng' is defined but never used                 no-unused-vars
+   53:10  warning  'mainswt' is defined but never used                 no-unused-vars
+   89:10  warning  'changeImages' is defined but never used            no-unused-vars
+  125:10  warning  'psychnge' is defined but never used                no-unused-vars
+  136:10  warning  'sliderChange' is defined but never used            no-unused-vars
+  148:10  warning  'frqchnge' is defined but never used                no-unused-vars
+  159:10  warning  'phschnge' is defined but never used                no-unused-vars
+  208:9   warning  'pos' is already defined                            no-redeclare
+  237:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  309:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  371:9   warning  'pos' is already defined                            no-redeclare
+  431:10  warning  'bthd' is defined but never used                    no-unused-vars
+  497:9   warning  'pos' is already defined                            no-redeclare
+  547:10  warning  'grnds' is defined but never used                   no-unused-vars
+  552:10  warning  'osclocp' is defined but never used                 no-unused-vars
+  557:10  warning  'ok' is defined but never used                      no-unused-vars
+  612:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  623:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  624:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  685:10  warning  'printf' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/intgrtrjs.js
+   31:5   warning  'n' is assigned a value but never used              no-unused-vars
+   32:5   warning  'cs' is defined but never used                      no-unused-vars
+   32:9   warning  'rs' is defined but never used                      no-unused-vars
+   32:13  warning  'vlt' is defined but never used                     no-unused-vars
+   32:18  warning  'freq' is defined but never used                    no-unused-vars
+   53:10  warning  'mainswt' is defined but never used                 no-unused-vars
+  120:10  warning  'changeImages' is defined but never used            no-unused-vars
+  165:10  warning  'psychnge' is defined but never used                no-unused-vars
+  179:10  warning  'sliderChange' is defined but never used            no-unused-vars
+  194:10  warning  'frqchnge' is defined but never used                no-unused-vars
+  208:10  warning  'phschnge' is defined but never used                no-unused-vars
+  261:9   warning  'pos' is already defined                            no-redeclare
+  290:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  330:10  warning  'slidrchng' is defined but never used               no-unused-vars
+  344:10  warning  'poschg' is defined but never used                  no-unused-vars
+  359:10  warning  'phaseslds' is defined but never used               no-unused-vars
+  373:10  warning  'frqs' is defined but never used                    no-unused-vars
+  393:9   warning  'postn' is assigned a value but never used          no-unused-vars
+  398:9   warning  'x2' is assigned a value but never used             no-unused-vars
+  432:9   warning  'p' is already defined                              no-redeclare
+  476:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  555:9   warning  'pos' is already defined                            no-redeclare
+  584:9   warning  'postn' is assigned a value but never used          no-unused-vars
+  585:9   warning  'x' is already defined                              no-redeclare
+  585:26  warning  'y' is already defined                              no-redeclare
+  586:9   warning  'dt' is already defined                             no-redeclare
+  586:13  warning  'tstart' is already defined                         no-redeclare
+  586:21  warning  'tstop' is already defined                          no-redeclare
+  587:9   warning  'x2' is assigned a value but never used             no-unused-vars
+  595:13  warning  'p' is already defined                              no-redeclare
+  609:9   warning  'i' is already defined                              no-redeclare
+  609:12  warning  'x0' is already defined                             no-redeclare
+  609:16  warning  'y0' is already defined                             no-redeclare
+  609:20  warning  'xscale' is already defined                         no-redeclare
+  609:28  warning  'yscale' is already defined                         no-redeclare
+  610:9   warning  'xp' is already defined                             no-redeclare
+  610:27  warning  'yp' is already defined                             no-redeclare
+  611:9   warning  'pos' is already defined                            no-redeclare
+  621:9   warning  'p' is already defined                              no-redeclare
+  640:10  warning  'bthd' is defined but never used                    no-unused-vars
+  717:9   warning  'pos' is already defined                            no-redeclare
+  746:9   warning  'postn' is assigned a value but never used          no-unused-vars
+  747:9   warning  'x' is already defined                              no-redeclare
+  747:26  warning  'y' is already defined                              no-redeclare
+  748:9   warning  'dt' is already defined                             no-redeclare
+  748:13  warning  'tstart' is already defined                         no-redeclare
+  748:21  warning  'tstop' is already defined                          no-redeclare
+  749:9   warning  'x2' is assigned a value but never used             no-unused-vars
+  757:13  warning  'p' is already defined                              no-redeclare
+  771:9   warning  'i' is already defined                              no-redeclare
+  771:12  warning  'x0' is already defined                             no-redeclare
+  771:16  warning  'y0' is already defined                             no-redeclare
+  771:20  warning  'xscale' is already defined                         no-redeclare
+  771:28  warning  'yscale' is already defined                         no-redeclare
+  772:9   warning  'xp' is already defined                             no-redeclare
+  772:27  warning  'yp' is already defined                             no-redeclare
+  773:9   warning  'pos' is already defined                            no-redeclare
+  783:9   warning  'p' is already defined                              no-redeclare
+  801:10  warning  'grnds' is defined but never used                   no-unused-vars
+  820:10  warning  'osclocp' is defined but never used                 no-unused-vars
+  825:10  warning  'ok' is defined but never used                      no-unused-vars
+  879:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  890:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  891:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  952:10  warning  'printf' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/jsplumb1.js
+     68:9   warning  'root' is assigned a value but never used                                  no-unused-vars
+    130:18  warning  'i' is already defined                                                     no-redeclare
+    184:18  warning  'i' is already defined                                                     no-redeclare
+    242:22  warning  'j' is already defined                                                     no-redeclare
+    264:56  warning  't' is defined but never used                                              no-unused-vars
+    279:26  warning  'j' is already defined                                                     no-redeclare
+    582:9   warning  'exports' is not defined                                                   no-undef
+    616:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    626:9   warning  'exports' is not defined                                                   no-undef
+    661:9   warning  '_normal' is assigned a value but never used                               no-unused-vars
+    672:9   warning  '_lineLength' is assigned a value but never used                           no-unused-vars
+    706:9   warning  '_theta' is assigned a value but never used                                no-unused-vars
+    725:9   warning  '_intersects' is assigned a value but never used                           no-unused-vars
+    747:9   warning  '_encloses' is assigned a value but never used                             no-unused-vars
+    764:9   warning  '_pointOnLine' is assigned a value but never used                          no-unused-vars
+    781:9   warning  '_perpendicularLineTo' is assigned a value but never used                  no-unused-vars
+    789:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    846:28  warning  'view' is defined but never used                                           no-unused-vars
+    846:34  warning  'target' is defined but never used                                         no-unused-vars
+    846:42  warning  'pageX' is defined but never used                                          no-unused-vars
+    846:49  warning  'pageY' is defined but never used                                          no-unused-vars
+    846:56  warning  'screenX' is defined but never used                                        no-unused-vars
+    846:65  warning  'screenY' is defined but never used                                        no-unused-vars
+    846:74  warning  'clientX' is defined but never used                                        no-unused-vars
+    846:83  warning  'clientY' is defined but never used                                        no-unused-vars
+   1040:58  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1082:39  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1132:9   warning  'touchstart' is assigned a value but never used                            no-unused-vars
+   1132:36  warning  'touchend' is assigned a value but never used                              no-unused-vars
+   1132:59  warning  'touchmove' is assigned a value but never used                             no-unused-vars
+   1137:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1223:73  warning  Invalid typeof comparison value                                            valid-typeof
+   1286:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1288:51  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1310:29  warning  'el' is defined but never used                                             no-unused-vars
+   1310:33  warning  'event' is defined but never used                                          no-unused-vars
+   1310:40  warning  'children' is defined but never used                                       no-unused-vars
+   1310:50  warning  'fn' is defined but never used                                             no-unused-vars
+   1457:9   warning  'exports' is not defined                                                   no-undef
+   1490:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   1595:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1719:42  warning  'scope' is defined but never used                                          no-unused-vars
+   1727:13  warning  'scroll' is assigned a value but never used                                no-unused-vars
+   1875:13  warning  '_addFilter' is assigned a value but never used                            no-unused-vars
+   1876:13  warning  '_removeFilter' is assigned a value but never used                         no-unused-vars
+   2091:31  warning  Empty block statement                                                      no-empty
+   2280:42  warning  'scope' is defined but never used                                          no-unused-vars
+   2300:56  warning  'drag' is defined but never used                                           no-unused-vars
+   2388:13  warning  '_getMatchingDroppables' is assigned a value but never used                no-unused-vars
+   2432:18  warning  'i' is already defined                                                     no-redeclare
+   2754:40  warning  'spec' is defined but never used                                           no-unused-vars
+   2777:38  warning  'spec' is defined but never used                                           no-unused-vars
+   2862:9   warning  'exports' is not defined                                                   no-undef
+   2874:42  warning  'exports' is not defined                                                   no-undef
+   2915:19  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3011:26  warning  Unnecessary escape character: \.                                           no-useless-escape
+   3012:40  warning  Unnecessary escape character: \[                                           no-useless-escape
+   3180:36  warning  '_protoFn' is defined but never used                                       no-unused-vars
+   3188:45  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3188:83  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3201:41  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3201:79  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3242:42  warning  Empty block statement                                                      no-empty
+   3320:23  warning  Empty block statement                                                      no-empty
+   3488:2   warning  Unnecessary semicolon                                                      no-extra-semi
+   3553:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   3585:9   warning  'eventFilters' is assigned a value but never used                          no-unused-vars
+   3604:9   warning  '_each' is assigned a value but never used                                 no-unused-vars
+   4583:13  warning  '_setDraggable' is assigned a value but never used                         no-unused-vars
+   4807:56  warning  'args' is defined but never used                                           no-unused-vars
+   4855:60  warning  'cEl' is assigned a value but never used                                   no-unused-vars
+   5481:13  warning  '_unmanage' is assigned a value but never used                             no-unused-vars
+   5576:68  warning  'jsPlumbInstance' is assigned a value but never used                       no-unused-vars
+   6146:39  warning  'scope' is defined but never used                                          no-unused-vars
+   6751:9   warning  'exports' is not defined                                                   no-undef
+   6766:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   6882:36  warning  'ignoreAttachedElements' is defined but never used                         no-unused-vars
+   7059:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   7304:41  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7309:50  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7374:53  warning  'fireEvent' is defined but never used                                      no-unused-vars
+   7374:64  warning  'originalEvent' is defined but never used                                  no-unused-vars
+   7488:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   7534:39  warning  'startParams' is defined but never used                                    no-unused-vars
+   8111:17  warning  'elId' is assigned a value but never used                                  no-unused-vars
+   8348:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   8865:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   8889:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   8901:21  warning  'jsPlumb' is not defined                                                   no-undef
+   8984:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   9709:27  warning  'Biltong' is not defined                                                   no-undef
+  10061:23  warning  'jsPlumbUtil' is not defined                                               no-undef
+  10293:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  10323:53  warning  'x' is defined but never used                                              no-unused-vars
+  10323:56  warning  'y' is defined but never used                                              no-unused-vars
+  10350:46  warning  'x1' is defined but never used                                             no-unused-vars
+  10350:50  warning  'y1' is defined but never used                                             no-unused-vars
+  10350:54  warning  'x2' is defined but never used                                             no-unused-vars
+  10350:58  warning  'y2' is defined but never used                                             no-unused-vars
+  10383:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  10441:46  warning  '_' is defined but never used                                              no-unused-vars
+  10643:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  10789:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11112:13  warning  'dumpSegmentsToConsole' is assigned a value but never used                 no-unused-vars
+  11168:48  warning  'anchorPoint' is defined but never used                                    no-unused-vars
+  11168:61  warning  'orientation' is defined but never used                                    no-unused-vars
+  11168:74  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11168:89  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11201:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11207:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11228:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11233:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11244:40  warning  'params' is defined but never used                                         no-unused-vars
+  11322:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11322:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11322:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11348:40  warning  'd' is defined but never used                                              no-unused-vars
+  11348:43  warning  'style' is defined but never used                                          no-unused-vars
+  11348:50  warning  'anchor' is defined but never used                                         no-unused-vars
+  11391:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11394:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11394:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11394:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11410:32  warning  'style' is defined but never used                                          no-unused-vars
+  11410:39  warning  'anchor' is defined but never used                                         no-unused-vars
+  11443:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11472:27  warning  'instance' is defined but never used                                       no-unused-vars
+  11472:37  warning  'component' is defined but never used                                      no-unused-vars
+  11541:43  warning  'component' is defined but never used                                      no-unused-vars
+  11705:17  warning  'jsPlumb' is not defined                                                   no-undef
+  11812:37  warning  'component' is defined but never used                                      no-unused-vars
+  11822:29  warning  'containerExtents' is defined but never used                               no-unused-vars
+  11850:37  warning  'params' is defined but never used                                         no-unused-vars
+  11863:42  warning  'currentConnectionPaintStyle' is defined but never used                    no-unused-vars
+  11907:13  warning  'labelWidth' is assigned a value but never used                            no-unused-vars
+  11907:32  warning  'labelHeight' is assigned a value but never used                           no-unused-vars
+  11907:52  warning  'labelText' is assigned a value but never used                             no-unused-vars
+  11907:70  warning  'labelPadding' is assigned a value but never used                          no-unused-vars
+  11997:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  12441:35  warning  'conn' is defined but never used                                           no-unused-vars
+  12441:41  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  12445:37  warning  'conn' is defined but never used                                           no-unused-vars
+  12445:43  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  12453:56  warning  'jsPlumb' is not defined                                                   no-undef
+  12489:38  warning  '_el' is defined but never used                                            no-unused-vars
+  12489:43  warning  'targetGroup' is defined but never used                                    no-unused-vars
+  12539:25  warning  'jsPlumbUtil' is not defined                                               no-undef
+  12883:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  12899:41  warning  'lastOrientation' is assigned a value but never used                       no-unused-vars
+  12903:13  warning  'loopbackRadius' is assigned a value but never used                        no-unused-vars
+  12904:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  13248:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13257:13  warning  'curviness' is assigned a value but never used                             no-unused-vars
+  13259:13  warning  'proximityLimit' is assigned a value but never used                        no-unused-vars
+  13262:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  13401:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13496:13  warning  'clockwise' is assigned a value but never used                             no-unused-vars
+  13596:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13603:30  warning  'params' is defined but never used                                         no-unused-vars
+  13607:46  warning  '_' is defined but never used                                              no-unused-vars
+  13628:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14033:35  warning  'style' is defined but never used                                          no-unused-vars
+  14056:35  warning  'style' is defined but never used                                          no-unused-vars
+  14092:13  warning  'self' is assigned a value but never used                                  no-unused-vars
+  14251:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14444:39  warning  'jsPlumb' is not defined                                                   no-undef
+  14473:29  warning  'jsPlumb' is not defined                                                   no-undef
+  14480:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14481:39  warning  'jsPlumb' is not defined                                                   no-undef
+  14548:40  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14639:22  warning  'jsPlumb' is not defined                                                   no-undef
+  14644:24  warning  'jsPlumb' is not defined                                                   no-undef
+  14770:26  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14783:13  warning  'jsPlumb' is not defined                                                   no-undef
+  14788:18  warning  'jsPlumb' is not defined                                                   no-undef
+  14797:13  warning  'jsPlumb' is not defined                                                   no-undef
+  14802:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14803:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14805:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14809:13  warning  'jsPlumb' is not defined                                                   no-undef
+  14815:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14853:18  warning  'jsPlumb' is not defined                                                   no-undef
+  14901:22  warning  'jsPlumb' is not defined                                                   no-undef
+  14982:20  warning  'jsPlumb' is not defined                                                   no-undef
+  14996:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15008:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15011:25  warning  'jsPlumb' is not defined                                                   no-undef
+  15013:35  warning  'jsPlumb' is not defined                                                   no-undef
+  15014:30  warning  'jsPlumb' is not defined                                                   no-undef
+  15015:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15016:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15017:46  warning  'jsPlumb' is not defined                                                   no-undef
+  15133:36  warning  'el' is defined but never used                                             no-unused-vars
+  15133:40  warning  'options' is defined but never used                                        no-unused-vars
+  15136:36  warning  'el' is defined but never used                                             no-unused-vars
+  15136:40  warning  'options' is defined but never used                                        no-unused-vars
+  15152:45  warning  'zoom' is defined but never used                                           no-unused-vars
+  15192:33  warning  'spec' is defined but never used                                           no-unused-vars
+  15201:31  warning  'spec' is defined but never used                                           no-unused-vars
+  15210:38  warning  'posseId' is defined but never used                                        no-unused-vars
+  15263:23  warning  'el' is defined but never used                                             no-unused-vars
+  15263:27  warning  'event' is defined but never used                                          no-unused-vars
+  15263:34  warning  'callback' is defined but never used                                       no-unused-vars
+  15272:24  warning  'el' is defined but never used                                             no-unused-vars
+  15272:28  warning  'event' is defined but never used                                          no-unused-vars
+  15272:35  warning  'callback' is defined but never used                                       no-unused-vars
+
+/home/runner/work/exp-differentiator-integrator-iitkgp/exp-differentiator-integrator-iitkgp/experiment/simulation/js/quiz/vlab-quiz-data.js
+  6:5  warning  'quizJSON' is assigned a value but never used  no-unused-vars
+
+✖ 1504 problems (0 errors, 1504 warnings)
+  0 errors and 18 warnings potentially fixable with the `--fix` option.
+

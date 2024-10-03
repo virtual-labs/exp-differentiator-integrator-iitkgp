@@ -1,0 +1,25 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If the frequency increases in the given circuit, how would the total current change?<br><p style=\"text-align:center\"><img src=\"images/quiz1.png \" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "The total current would increase",
+        "b": "The total current would decrease",
+        "c": "The total current would remain the same",
+        "d": "More information is needed in order to predict how the total current would change"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "What is the effect of increasing the resistance in a series RC circuit? ",
+      "answers": {
+        "a": "There will be no effect at all",
+        "b": "The current will increase",
+        "c": "The input voltage will increase",
+        "d": "The phase shift will decrease"
+      },
+      "correctAnswer": "d"
+    }
+  ]
+}

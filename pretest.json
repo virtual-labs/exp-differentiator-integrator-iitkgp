@@ -1,0 +1,16 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which statement about a series RC circuit is true? ",
+      "answers": {
+        "a": "The capacitor's voltage drop is in phase with the resistor's voltage drop",
+        "b": "The current leads the source voltage",
+        "c": "The current lags the source voltage",
+        "d": "The resistor voltage lags the current"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
